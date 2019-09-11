@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF Version](rorywatts-cv-september.pdf)
+======
+
 Education
 ======
 
