@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-# Guest Lectures
+## Guest Lectures
 
 - Master of Public Health, The University of Western Australia
   - Health system reform in developed countries
@@ -16,7 +16,7 @@ author_profile: true
   - Equity and ethics
   - Global Health Governance
 
-# Sessional Academic
+## Sessional Academic
 
 - Medical School, The University of Western Australia
   - Various appointments
@@ -25,7 +25,7 @@ author_profile: true
 - Faculty of Health and Medical Sciences, The University of Western Australia
   - Medical Sciences Major
 
-# Some kind feedback
+## Some kind feedback
 
 - “Dear Rory, thanks so much for everything you've done for us this semester in leaps. You've truly gone above and beyond”
 - “Dear Rory, Cheers for being a great leaps tutor and making it more fun than I thought leaps could be. You're a ripper teacher"
