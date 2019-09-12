@@ -39,7 +39,7 @@ Skills
 
 Publications
 ======
-
+[See my publications section](publications.md)
   
 Talks
 ======
