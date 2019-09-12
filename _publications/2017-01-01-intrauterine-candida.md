@@ -1,8 +1,8 @@
 ---
-title: "Repeated maternal intramuscular or intraamniotic erythromycin incompletely resolves intrauterine Ureaplasma parvum infection in a sheep model of pregnancy"
+title: "Intrauterine Candida albicans Infection Causes Systemic Fetal Candidiasis with Progressive Cardiac Dysfunction in a Sheep Model of Early Pregnancy"
 collection: publications
-permalink: /publication/2014-08-01-repeated-maternal
-date: 2014-08-01
-venue: 'American Journal of Obstetrics and Gynecology'
-paperurl: 'https://doi.org/10.1016/j.ajog.2014.02.025'
+permalink: /publication/2017-01-01-intrauterine-candida
+date: 2017-01-01
+venue: 'Reproductive Sciences'
+paperurl: 'https://doi.org/10.1177/1933719116649697'
 ---
