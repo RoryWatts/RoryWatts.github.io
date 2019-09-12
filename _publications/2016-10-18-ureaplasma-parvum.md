@@ -1,8 +1,8 @@
 ---
-title: "Repeated maternal intramuscular or intraamniotic erythromycin incompletely resolves intrauterine Ureaplasma parvum infection in a sheep model of pregnancy"
+title: "Ureaplasma parvum genotype, combined vaginal colonisation with Candida albicans, and spontaneous preterm birth in an Australian cohort of pregnant women"
 collection: publications
-permalink: /publication/2014-08-01-repeated-maternal
-date: 2014-08-01
-venue: 'American Journal of Obstetrics and Gynecology'
-paperurl: 'https://doi.org/10.1016/j.ajog.2014.02.025'
+permalink: /publication/2016-10-18-ureaplasma-parvum
+date: 2016-10-18
+venue: 'BMC Pregnancy and Childbirth'
+paperurl: 'https://doi.org/10.1186/s12884-016-1110-x'
 ---
