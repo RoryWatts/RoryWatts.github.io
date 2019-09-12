@@ -1,8 +1,8 @@
 ---
-title: "Repeated maternal intramuscular or intraamniotic erythromycin incompletely resolves intrauterine Ureaplasma parvum infection in a sheep model of pregnancy"
+title: "Whole blood flow cytometric analysis of Ureaplasma-stimulated monocytes from pregnant women"
 collection: publications
-permalink: /publication/2014-08-01-repeated-maternal
-date: 2014-08-01
-venue: 'American Journal of Obstetrics and Gynecology'
-paperurl: 'https://doi.org/10.1016/j.ajog.2014.02.025'
+permalink: /publication/2015-12-01-whole-blood
+date: 2015-12-01
+venue: 'Journal of Reproductive Immunology'
+paperurl: 'https://doi.org/10.1016/j.jri.2014.12.008'
 ---
