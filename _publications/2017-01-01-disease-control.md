@@ -1,8 +1,8 @@
 ---
-title: "Repeated maternal intramuscular or intraamniotic erythromycin incompletely resolves intrauterine Ureaplasma parvum infection in a sheep model of pregnancy"
+title: "Disease control programme support costs: An update of WHO-CHOICE methodology, price databases and quantity assumptions"
 collection: publications
-permalink: /publication/2014-08-01-repeated-maternal
-date: 2014-08-01
-venue: 'American Journal of Obstetrics and Gynecology'
-paperurl: 'https://doi.org/10.1016/j.ajog.2014.02.025'
+permalink: /publication/2017-01-01-disease-control
+date: 2017-01-01
+venue: 'Cost Effectiveness and Resource Allocation'
+paperurl: 'https://doi.org/10.1186/s12962-017-0083-6'
 ---
