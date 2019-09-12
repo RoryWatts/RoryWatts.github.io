@@ -39,9 +39,9 @@ Publications
   
 Talks
 ======
-[See my 'Talks' section](talks.md)
+[See my 'Talks' section](talks.html)
   
 Teaching
 ======
-[See my 'Teaching' section](teaching.md)
+[See my 'Teaching' section](teaching.html)
   
