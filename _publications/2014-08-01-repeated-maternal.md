@@ -1,4 +1,3 @@
-
 ---
 title: "Repeated maternal intramuscular or intraamniotic erythromycin incompletely resolves intrauterine Ureaplasma parvum infection in a sheep model of pregnancy"
 collection: publications
