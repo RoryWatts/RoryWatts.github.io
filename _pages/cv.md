@@ -20,7 +20,18 @@ Education
 
 Work experience
 ======
-
+- The University of Western Australia, Perth, Australia
+ - Research Associate, School of Population and Global Health
+ - Sessional Academic, Medical School
+- World Health Organization, Geneva, Switzerland
+ - Consultant, HQ/NMH/MSD
+ - Consultant, HQ/NMH/NHD
+ - Consultant, HQ/HIS/HGF
+ - Consultant, HQ/NMH/NVI
+- Deloitte Access Economics, Melbourne, Australia
+  - Analyst, Health Economics and Social Policy
+- The Lane Bookshop, Perth, Australia
+  - Bibliopole
   
 Skills
 ======
