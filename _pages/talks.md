@@ -5,8 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-# Talks
-
 - International Health Economics Association (iHEA)
   - How Are MPH Graduates Absorbed into the Labour Market in Australia? Basel, Switzerland
   - Public Health Jobs: What Are They and Where Have They Gone? Basel, Switzerland
