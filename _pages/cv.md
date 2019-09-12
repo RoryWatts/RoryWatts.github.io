@@ -33,19 +33,15 @@ Work experience
 - The Lane Bookshop, Perth, Australia
   - Bibliopole
   
-Skills
-======
-
-
 Publications
 ======
-[See my publications section](publications.md)
+[See my 'Publications' section](publications.md)
   
 Talks
 ======
-
+[See my 'Talks' section](publications.md)
   
 Teaching
 ======
-
+[See my 'Teaching' section](publications.md)
   
