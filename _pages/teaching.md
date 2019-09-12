@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-## Guest Lectures
+## Guest lectures
 
 - Master of Public Health, The University of Western Australia
   - Health system reform in developed countries
@@ -16,7 +16,7 @@ author_profile: true
   - Equity and ethics
   - Global Health Governance
 
-## Sessional Academic
+## Sessional academic
 
 - Medical School, The University of Western Australia
   - Various appointments
