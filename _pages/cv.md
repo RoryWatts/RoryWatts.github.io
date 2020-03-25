@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF version here](rorywatts-cv-september.pdf)
+[PDF version here](rorywatts-cv-current.pdf)
 
 Education
 ======
@@ -20,28 +20,29 @@ Education
 
 Work experience
 ======
-- The University of Western Australia, Perth, Australia
+- The University of Western Australia, Perth, Australia 2014 - 2020
   - Research Associate, School of Population and Global Health
   - Sessional Academic, Medical School
-- World Health Organization, Geneva, Switzerland
+  - Sessional Academic, School of Population and Global Health
+- World Health Organization, Geneva, Switzerland 2016-2020
   - Consultant, HQ/NMH/MSD
   - Consultant, HQ/NMH/NHD
   - Consultant, HQ/HIS/HGF
   - Consultant, HQ/NMH/NVI
-- Deloitte Access Economics, Melbourne, Australia
+- Deloitte Access Economics, Melbourne, Australia 2017
   - Analyst, Health Economics and Social Policy
-- The Lane Bookshop, Perth, Australia
+- The Lane Bookshop, Perth, Australia 2007-2015
   - Bibliopole
   
 Publications
 ======
 [See my 'Publications' section](publications.md)
-  
+
 Talks
 ======
 [See my 'Talks' section](talks.md)
-  
+
 Teaching
 ======
 [See my 'Teaching' section](teaching.md)
-  
+

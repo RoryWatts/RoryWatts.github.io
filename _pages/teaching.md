@@ -21,7 +21,8 @@ author_profile: true
 - Medical School, The University of Western Australia
   - Various appointments
 - School of Population and Global Health, The University of Western Australia
-  - Health Systems and Economics
+  - Health Systems and Economics, Master of Public Health
+  - Health Systems and Policy, Population Health Major
 - Faculty of Health and Medical Sciences, The University of Western Australia
   - Medical Sciences Major
 
