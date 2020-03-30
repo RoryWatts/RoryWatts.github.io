@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an early career researcher with an interest in health economics, labour economics and global health. 
+I'm an early career researcher with an interest in health economics and global health. 
 Currently, I am a PhD candidate at The University of Western Australia with teaching and consulting commitments.
 
 I also have a wide range of methodological interests, and in the past have built:
