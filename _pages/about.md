@@ -8,15 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm an early career researcher with an interest in health economics and global health. 
-Currently, I am a PhD candidate at The University of Western Australia with teaching and consulting commitments.
-
-I also have a wide range of methodological interests, and in the past have built:
-- decision analytic models for health technology assessments
-- supervised machine learning models for natural language processing 
-- regression models 
-- webscrapers 
-- websites 
-- databases
-
-I previously worked for the World Health Organization in Geneva where I built models, and assisted in coordinating projects. I have degrees in Medical Science, Public Health and English Literature. In my spare time I make music, sing, and read.
+I'm a PhD candidate at The University of Western Australia, where I'm trying to answer the question: *do we have enough people doing public health work?* I often consult with the World Health Organization, where I provide guidance on health economics and tool-building. I have a Bachelor in English Literature, a Bachelor of Medical Science in Obstetrics and Gynaecology, and a Master of Public Health.  
