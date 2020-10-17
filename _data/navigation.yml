@@ -4,8 +4,8 @@ main:
   - title: "About me"
     url: /about/
 
-  - title: "Blog Posts"
-    url: /year-archive/
+#  - title: "Blog Posts"
+#    url: /year-archive/
     
 
     
