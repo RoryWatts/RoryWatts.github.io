@@ -10,9 +10,12 @@ The "Kerr White report" is formally known as the 'Independent review of research
 I do not own the rights to this publication. 
 Currently, there is a link to the PDF of this report [available here](https://www1.health.gov.au/internet/main/publishing.nsf/Content/C66647AAB9871405CA257BF000209A71/$File/pherp-review-1986.pdf). 
 
+N.B. Formatting is my own
+
 # The "Kerr White Report"
 
-## TABLE OF CONTENTS
+<div id='back'/>
+## [TABLE OF CONTENTS]
 
 - [Summary of Recommendations](#summaryofrecommendations)
 - [Main Content](#maincontent)
@@ -41,6 +44,7 @@ Currently, there is a link to the PDF of this report [available here](https://ww
 <div id='summaryofrecommendations'/>
 
 ## Summary of Recommendations 
+[Return to Table of Contents](#back)
 <div id='maincontent'/>
 
 ## Main Content
