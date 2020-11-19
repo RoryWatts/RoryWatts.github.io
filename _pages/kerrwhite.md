@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: ""
 permalink: /kerrwhite/
 author_profile: true
