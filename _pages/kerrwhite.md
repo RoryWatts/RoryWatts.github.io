@@ -14,7 +14,7 @@ Currently, there is a link to the PDF of this report [available here](https://ww
 
 ## TABLE OF CONTENTS
 
-- [Summary of Recommendations](summaryofrecommendations)
+- [Summary of Recommendations](#summaryofrecommendations)
 - Main Content
 	- Conceptual Framework  
 	- Problems and Issues
@@ -38,7 +38,7 @@ Currently, there is a link to the PDF of this report [available here](https://ww
 	- Individuals Interviewed During The Course of The Independent Review 
 	- Seminar on Public Health and Tropical Health: List of Participants 
 
-<a name="summaryofrecommendations"/>
+<div id='summaryofrecommendations'/>
 
 ## Summary of Recommendations 
 
