@@ -15,56 +15,95 @@ Currently, there is a link to the PDF of this report [available here](https://ww
 ## TABLE OF CONTENTS
 
 - [Summary of Recommendations](#summaryofrecommendations)
-- Main Content
-	- Conceptual Framework  
-	- Problems and Issues
-	- Australia's Bicentennial Health Initiative 
-	- Australian Academy of Health
-	- Australian Institute of Health
-	- National Centre for Health Statistics
-	- National Centre for Technology and Health Services Assessment
-	- School of Public Health and Tropical Medicine
-	- Institutional Arrangements for Public Health Education
-	- National Health and Medical Research Council 
-	- Tropical Health, Medicine and Diseases
-	- Management Training
-	- Colleges of Advanced Education
-	- Career Structures
-	- Towards One National Accomplishment
-	- Financing
-- References
-- Appendices 
-	- Submissions Received 
-	- Individuals Interviewed During The Course of The Independent Review 
-	- Seminar on Public Health and Tropical Health: List of Participants 
+- [Main Content](#maincontent)
+	- [Conceptual Framework](#conceptualframework)  
+	- [Problems and Issues](#problemsandissues)
+	- [Australia's Bicentennial Health Initiative](#australiasbicentennialhealthinitiative) 
+	- [Australian Academy of Health](#australianacademyofhealth)
+	- [Australian Institute of Health](#australianinstituteofhealth)
+	- [National Centre for Health Statistics](#nationalcentreforhealthstatistics)
+	- [National Centre for Technology and Health Services Assessment](#nationalcentrefortechnologyandhealthservicesassessment)
+	- [School of Public Health and Tropical Medicine](#schoolofpublichealthandtropicalmedicine)
+	- [Institutional Arrangements for Public Health Education](#institutionalarrangementsforpublichealtheducation)
+	- [National Health and Medical Research Council](#nationalhealthandmedicalresearchcouncil) 
+	- [Tropical Health, Medicine and Diseases](#tropicalhealthmedicineanddiseases)
+	- [Management Training](#managementtraining)
+	- [Colleges of Advanced Education](#collegesofadvancededucation)
+	- [Career Structures](#careerstructures)
+	- [Towards One National Accomplishment](#towardsonenationalaccomplishment)
+	- [Financing](#financing)
+- [References](#references)
+- [Appendices](#appendices) 
+	- [Submissions Received](#submissionsreceived) 
+	- [Individuals Interviewed During The Course of The Independent Review](#individualsinterviewedduringthecourseoftheindependentreview) 
+	- [Seminar on Public Health and Tropical Health: List of Participants](#seminaronpublichealthandtropicalhealthlistofparticipants) 
 
 <div id='summaryofrecommendations'/>
 
 ## Summary of Recommendations 
+<div id='maincontent'/>
 
 ## Main Content
+<div id='conceptualframework'/>
 
 ### Conceptual Framework
+<div id='problemsandissues'/>
+
 ### Problems and Issues
+<div id='australiasbicentennialhealthinitiative'/>
+
 ### Australia's Bicentennial Health Initiative 
+<div id='australianacademyofhealth'/>
+
 ### Australian Academy of Health
+<div id='australianinstituteofhealth'/>
+
 ### Australian Institute of Health
+<div id='nationalcentreforhealthstatistics'/>
+
 ### National Centre for Health Statistics
+<div id='nationalcentrefortechnologyandhealthservicesassessment'/>
+
 ### National Centre for Technology and Health Services Assessment
+<div id='schoolofpublichealthandtropicalmedicine'/>
+
 ### School of Public Health and Tropical Medicine
+<div id='institutionalarrangementsforpublichealtheducation'/>
+
 ### Institutional Arrangements for Public Health Education
+<div id='nationalhealthandmedicalresearchcouncil'/>
+
 ### National Health and Medical Research Council 
+<div id='tropicalhealthmedicineanddiseases'/>
+
 ### Tropical Health, Medicine and Diseases
+<div id='managementtraining'/>
+
 ### Management Training
+<div id='collegesofadvancededucation'/>
+
 ### Colleges of Advanced Education
+<div id='careerstructures'/>
+
 ### Career Structures
+<div id='towardsonenationalaccomplishment'/>
+
 ### Towards One National Accomplishment
+<div id='financing'/>
+
 ### Financing
+<div id='references'/>
 
 ## References
+<div id='appendices'/>
 
 ## Appendices
+<div id='submissionsreceived'/>
 
 ### Submissions Received 
-### Individuals Interviewed During The Course of The Independent Review 
+<div id='individualsinterviewedduringthecourseoftheindependentreview'/>
+
+### Individuals Interviewed During The Course of The Independent Review
+<div id='seminaronpublichealthandtropicalhealthlistofparticipants'/>
+
 ### Seminar on Public Health and Tropical Health: List of Participants 
