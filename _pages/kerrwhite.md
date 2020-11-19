@@ -1,3 +1,13 @@
+---
+permalink: /
+title: ""
+excerpt: "The Kerr White Report"
+author_profile: true
+redirect_from: 
+  - /kerrwhite/
+  - /kerrwhite.html
+---
+
 # AUSTRALIA'S BICENTENNIAL HEALTH INITIATIVE 
 RESEARCH AND EDUCATIONAL REQUIREMENTS FOR PUBLIC HEALTH AND TROPICAL HEALTH IN AUSTRALIA
 
