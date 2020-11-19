@@ -15,6 +15,7 @@ N.B. Formatting is my own
 # The "Kerr White Report"
 
 <div id='back'/>
+
 ## TABLE OF CONTENTS
 
 - [Summary of Recommendations](#summaryofrecommendations)
