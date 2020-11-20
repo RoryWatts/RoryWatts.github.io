@@ -464,18 +464,18 @@ encouraged to focus its tellowships for overseas candidates from countries in th
 
 16.4 The Commonwealth Department of Health's current expenditures for health research, development, information and public health education is about \\$67.7 million annually. This additional proposed amount of approximately \\$33.0 million to raise the level to \\$100 million annually represents only 1.5 of the--1% Federal Medicare tax together with 1.5% of the value oE premiums received by Health Insurance Funds. As a minimum, at least \\$100 million a year should be provided to support the following components of Federal health research, development., information and public health education: 
 
-| Group| AUD |
-|Australian Academy of Health | 1.5m |
-|Australian Institute of Health | 0.5m |
-| National Centre for Health Statistics | 2.0m |
-| National Centre for Technology and Health Services Assessment | 1.5m |
-| Health Research Endowment Fund | 70m |
-| Health Development Endowment Fund | 15m |
-| Research Centre for Epidemiology and Population Health | 2.0m |
-| Faculty positions in State Universities and College of Advanced Education | 5.0m |
-| Population Health and Management Fellowships | 2.0m |
-| Towards one National Bicentennial Accomplishment | 1.0m |
-| __Total__ | 100.5m | 
+
+|Australian Academy of Health | \\$1.5m |
+|Australian Institute of Health | \\$0.5m |
+| National Centre for Health Statistics | \\$2.0m |
+| National Centre for Technology and Health Services Assessment | \\$1.5m |
+| Health Research Endowment Fund | \\$70m |
+| Health Development Endowment Fund | \\$15m |
+| Research Centre for Epidemiology and Population Health | \\$2.0m |
+| Faculty positions in State Universities and College of Advanced Education | \\$5.0m |
+| Population Health and Management Fellowships | \\$2.0m |
+| Towards one National Bicentennial Accomplishment | \\$1.0m |
+| __Total__ | \\$100.5m | 
 
 
 <div id='references'/>
