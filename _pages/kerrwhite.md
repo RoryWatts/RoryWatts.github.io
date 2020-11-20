@@ -37,10 +37,6 @@ N.B. Formatting is my own. There may be mistakes, which are either the fault of 
 	- [Towards One National Accomplishment](#towardsonenationalaccomplishment)
 	- [Financing](#financing)
 - [References](#references)
-- [Appendices](#appendices) 
-	- [Submissions Received](#submissionsreceived) 
-	- [Individuals Interviewed During The Course of The Independent Review](#individualsinterviewedduringthecourseoftheindependentreview) 
-	- [Seminar on Public Health and Tropical Health: List of Participants](#seminaronpublichealthandtropicalhealthlistofparticipants) 
 
 <div id='summaryofrecommendations'/>
 
@@ -316,57 +312,181 @@ In any event, "common diseases" are ltcommon" and there are plenty of these in C
 
 9.12 Arguments against establishing the new Research Centre in Sydney stem from the unfortunate associations that surround the present School of Public Health and Tropical Medicine and even its building that plague its recent. history. The concept of a Research Centre appears to fit more comfortably into the academic framework of ANU than it does at the University of Sydney and it would clearly be university-based rather than continue as a directly funded government research institute located in a university. The proposed transfer of funds directly from the Commonwealth Department. of Health vote to the ANU vote is seen as a much simpler and cleaner arrangement than transfers through the CTEC. Finally, the University of Sydney has embarked recently on a new initiative at Westmead Hospital and it seems preferable to strengthen that Department rather than encourage a competing activity in the same university.
 
-One of the responsibilities of the Research Centre for epiemiology and Population Health would be to organise, with guestt faculty from other universities and institutions, annual six- to eight-week intensive sessions on epidemiology and statistical principles and methods directed at improving skills in design, measurement and evaluation for a variety of constituencies. Several levels of education might be provided including core courses for those taking MPH degrees at universities in the several States, for those clinicians interested in improving their research skills and for other groups concerned with health services evaluation studies of different types. 
+9.13 One of the responsibilities of the Research Centre for epiemiology and Population Health would be to organise, with guestt faculty from other universities and institutions, annual six- to eight-week intensive sessions on epidemiology and statistical principles and methods directed at improving skills in design, measurement and evaluation for a variety of constituencies. Several levels of education might be provided including core courses for those taking MPH degrees at universities in the several States, for those clinicians interested in improving their research skills and for other groups concerned with health services evaluation studies of different types. 
 
-This new Research Centre should not attempt to train ,managers or administrators, at least initially, since  irst-rate national graduate schools of management exist in other universities. Short courses in evaluation for managers, however, might be considered as time and resources permit and the Research Centre might assume responsibility for the Health Services Module proposed for the MBA program at the Australian ,Graduate School of Management at the University of N.S.W. (see below)
+9.14 This new Research Centre should not attempt to train ,managers or administrators, at least initially, since  irst-rate national graduate schools of management exist in other universities. Short courses in evaluation for managers, however, might be considered as time and resources permit and the Research Centre might assume responsibility for the Health Services Module proposed for the MBA program at the Australian ,Graduate School of Management at the University of N.S.W. (see below)
+
+9.15 Turning to the requirements of the States, there is 'Substantial confusion with respect to both the names and the ctivi ties of Departments of Communi ty Health in Australia. hese tend to be a mixture of epidemiology, miscellaneous ctivi ties associated with social and preventive medicine, ommunity medicine, public health, environmental health, ccupational health, geriatrics, rehabilitation and especially eneral practice. 
+
+9.16 pX. RECOMMENDAT I ON : The miscellaneous components in ?,current Departments of Community Health and Social and $.+Preventive Medicine or Community Medicine should be separated from these Departments and independent Departments of General & %. hs Practice or Family Medicine should be established. The latter :,,term is now being used in favour of general practice in North $..and South America and is emerging in Europe. The sometimes pejorative associations assigned to this vital component of $clinical medicine by some specialists and the lack of a clear :;,,identity ,,, have hampered their development. These new De artments -2 A of Family Medicine will need substantial strespecially through research using epidemiological and social 1 Lscience concepts and methods. Progress in preventive medicine, $\ .. j. ..health , promotion, behavioural health and community responsiveness to the population's problems can be substantially o. impeded or enhanced by the attitudes and performances of family .,physicians. It is largely by strengthening the primary care ,jcom onent of any health care system that it is possible to keep ,;,peep y+ e out of hospitals and to contain costs, to say nothing of - treating them early in the natural history of disease. This whole field might be the subject of a special enquiry. 
+
+9.17 RECOMMENDATION : The residual Departments 'of Community
+Health, Social and Preventive Medicine or Community Medicine
+should be re-named Departments of Epidemiology and: Population Health. Because of the confusion over terms, definitions and objectives associated with the term "public healtht', it seems best to use a new term for a new initiative. More important, it is important that all undergraduates, postgraduates and faculty internalise the "population perspective" in their conceptional thinking and practice. In this sense "public healthH is seen as part of the continuum that includes the biomedical sciences, the social sciences and clinical medicine. 
+
+9.18 Each of these Departments should have strengths in economics, epidemiology, sociology and statistics and should focus on one or more of the subject areas which are of importance to the population served such as: Aboriginals, ageing, alcoholism, clinical trials, community services, health services, nutri tion, occupational and/or industrial health, reproductive health, school health, social health, substance abuse and toxicology trials etc. A critical mass of at least ten full-time faculty, of which three of four should be clinically competent, is an appropriate start. Most Departments should aim at having 25 full-time faculty by the end of the century.
+
+9.19 RECOMMENDATION: At least $4.0 million annually and preferably more should be invested over the next six years by the Commonwealth Department of Health to endow or support chairs and senior faculty in the leading Departments in this field. About $2.0 million of this would include funds redeployed from the School of Public Health and Tropical Medicine. These funds should be dedicated for the use of the re-organized Departments, and their use only, for at least 30 years. All initial faculty appointments should be for f ive-year terms, and following external review, additional five-year appointments or tenure could be provided as each University determined for itself. 
+
+9.20 RECOMMENDATION: Priority for initial funding should be given to those universities with strong track records in both undergraduate and postgraduate programs, particularly for the MPH, M.Sc. (or equivalent) and' Ph.D degrees. During the  irst three years of this initiative the University of Adelaide, the University of Sydney at Westmead, and the University of Newcastle should be selected for the first three $1.0 million endowments or funds for Chairs. Adelaide is nominated because it has organized an MPH program for 20 candidates commencing in 1986 (for which it had 68 enquiries during the first week) and because the South Australian Health Commission is funding two new faculty positions and support personnel, and will probably provide funds for incorporating The Foundation E.lu1tidisciplinary Education and Community Health in the Department. Other State Departmenrs of Health should take cognizance of the lead provided by the South Australian Health Commission in  ts direct funding of the University of Adelaide program. Westmead is nominated because of the substantial resources provided for the resurgent Department of Community Medicine under new leadership and the track record of the new Chairman and professor in initiating new educational programs and learning methods with high standards. Newcastle is nominated because of its innovative undergraduate and postgraduate educational programs, its problem-based approach io learning, its population-based perspectives, its excellent epidemiology and statistics faculties and its track record in training both domestic and foreign M.Sc. and Ph.D graduates.
+
+9.21 RECOMMENDATION: In addition to the first three $1.0 million endowments or funds for chairs a further sum of $1.0 million should be provided annually to endow or fund positions. for senior lecturers and lecturers in the three universities selected initially. 
+
+9.22 RECOMMENDATION: At least $1.0 million annually should be proviaed by the Comrnonwea3th Department of Health for salaiies of faculty and support personnel at universities (other than those nominated above) and colleges of advanced education that provide strong undergraduate and postrgraduate education in public health or related fields. During the final three years of this six year initiative, $3.0 million annually wguld be used to endow or fund additional chairs and other positions in these universities and colleges of advanced education on a competitive basis. 
+
+9.23 At the end of five years and an external review, the Universities should have a clear idea of the achievements of these Departments and each should have substantial permanent: endowments for their continuing support. From this vantage point the universities should be able to seek additional funds from the CTEC for expansion of the Departments. It would be expected that each of the Departments will obtain additional research and development funds from the Health Research Committee and the Health Development Committee of the NHENRC (see below). 
+
+9.24 RECOMMENDATION: All funds for these new Departmenrs of Epidemiology and Population Health should be awarded on the basis of peer review through the proposed Health Development: Committee. The funds for this purpose would be redeployed, in part, from the Commonwealth Department of Health budget of $4.0 million currently supporting the School of Public Health and Tropical Medicine, to which additional funds of abour $3.0 million annually should be added over a six year period
+
+9.25 The awarding of MPH degrees by at least one University in each State appears to be responding to a substantial unmet demand from those working in Health Departments or Commissions, from clinicians undertaking research, from physicians employed in occupational medicine and from a variety of non-medical health professionals in community settings. While these courses can be seen, in part, as vocational staff training and upgrading, they do not get at the heart of the need to attract at an early stage in their careers a larger proportion of the best young minds to work in the disciplines germane to public health. 
+
+9.26 __RECOMMENDATION:__ Undergraduates in medicine, nursing economics, the social sciences and related fields should be encouraged to undertake short summer electives or research rojects as an introduction to the opportunities and  hallenges :ssociated with problems bearing on the public's health. It should then be possible to attract a proportion of these young people to undertake M.Sc. or Ph.D. postgraduate training in epidemiology, stat.istics, economics, sociology or a discipline bearing on public health, including some exposure to the full array of careers and prospects in the public as well as the private sector. In due course, it may be unnecessary to have MPH courses, since most. or all of those working in hea1t.h departments, universities, hospital administration, and in other relevant. health care institutions will have been adequately trained much earlier in their careers. 
+
+9.27 Stipends and remuneration for those undert.aking postgraduate training in the disciplines germane to public or population health both at. t.he proposed ANU Research Centre for Epidemiology and Population Health and at other universities with Departments of Epidemiology and Population Health will need @ to be increased if first-rate candidates are to be attracted. The stipends will need to be related to career structures. Registrars training in clinical specialities can earn $30,000 to $60,000 per year during their training and those in "public health" have the prospect of earning $12,000 to $15,000 or, more frequently, nothing. There is little incent.ive to enter the "public health" field for any save those with a high degree of altruism, a strong aversion to clinical medicine or a determination to work in the public sector. Because of the need to attract to ?his field first-rate candidates, from  edicine as well as from other disciplines, who might otherwise be attracted to different private or public sectors, new arrangements and much higher training stipends or fellowships should be provided. 
+
+9.28 RECOMMENDATION: The Health Development Committee and its Health Development Endowment Fund should support Fellowships in disciplines germane to public or population health at a level oi about $2!,000 per annum ior two year periods. Thlrty fellowships per year is a reasonable st.art so that $0.75 million would be needed the first year and about $1.5 million the second  and succeeding years. There should be an annual narional competition and once appointed the candidates should apply to the university of their choice. In six years 130 persons might be trained which is over five rimes the number with MPHfs now employed in the upper echelons of the nation's health departments. A balance should be sought between clinicians and non-clinical physicians, statisticians, economists and sociologists etc.
+
+9.29 RECOMMENDATION: Residences or Reqistrarshi~s should be established in what is perhaps best described as "Community Medicine", as well as in "Clinical Epidemiology". The former involves work in a hospital-based ambulatory care centre or in a free-standing Community Care Centre, sometimes related to a hospital. The latter involves using epidemiological methods for measuring the burden of illness in the community, for studies of eff icacy and cost-effectiveness, for healrh care evaluation, and Eor appropriate types of etiological studies by ~hysicians wi rh patient care responsibilities. Abour fifteen fellowships should be awarded in these fields annually. 
+
+9.30 These clinical residences should also have competitive stipends at least of $30,000 per annum for three years. Fifreen of these Fellowships per year should be awarded based on a national competition organized by the Health Development Committee of the NHBMRC. The successful candidates should pick their own universities. This would amount to some $0.45 million for the initial year and then $1.0 million for the second and succeeding years allowing for some stipend increase. Again, this initiative should be reviewed at the end of five years and a decision made with respect to its conrinuation.
 
 <div id='nationalhealthandmedicalresearchcouncil'/>
 
 ### 10. National Health and Medical Research Council 
 [Return to Table of Contents](#back)
 
+10.1 This body is a major advisory group on health matters for the Commonwealth Department of Health and the nation. It was the subject of an extensive review in 1984 and with three exceptions I am in agreement with that Review Committee's findings
 
+LO. 2 The NHEMR Council as urouosed for January 1, 1986 appears to be under-represented f'rom the fields of statistics and the social sciences. In addition, be only five women and no represenrative from the Aboriginal Affairs on a 28 person committee; sur unintended distortions in the composition o epidemioloqy, here appear to ~e~ar?menr of ,ely these are f a Council purporting to be concerned with the heaith of all Australians
+
+10.3 The scope of inrerest and responsibility of the Medical Research Committee spanning as it does biomedical research, clinical research and population-based research, including health services research, employing analytical or experimental designs, is not reflected in either its title or irs membership.
+
+10.4 RECOMMENDATION: The name of the Medical Research Commirtee should be changed to the Health Research Committee (HRC). Of the 17 members at least four, including at least two of the 'medical researchers' should be, and be known to be, highly competent: investigators in a population-based discipline such as epidemiology, staristics, demography or social survey research. This is essential if public health and population-based research needs and proposals are to be addressed and assessed in a balanced and competent fashion
+
+10.5 A11 of the investigator-initiated projects, programs, units, institutional awards and fellowships should continue to undergo the rigorous peer review process which appears to function satisfactorily except for one change. Each Regional a Grants Interviewing Commitree should always have at least one population-based scientist on it, and each such Committee reviewing a population-based study or one involving field-work should have a majority of population-based scientists on it. Conversely there should always be a biomedical scientist and a clinician on each Regional Grants Interviewing Committee for a populat ion-based project. 
+
+10.6 The nation's problems with health and disease are such that the. Health Research Commit.tee should set clearly ennunciated targets for support. of populat. ion-based research. Fifteen percent of the available annual funds seems a reasonable start with a gradual increase to a third over the next. decade, assuming that the total available pool of research funds increases substantially. In this connection ir was worth stressing that the total sum of research funds available t.0 the - MRC (HRC) are in the light oE Australia's annual expendirures of mill.ion annually on health. 
+
+10.7 __RECOMMENDATION:__ The level of funds available for disbursement through the HRC should be increased promptly to $70.0 million a year through a Health Research Endowment Fund for investigator-initiated research. 1 f the MRC' s name, membership and commitment of funds - are not changed, then it is recommended that about 15% 3 $10.0 million annually of the $70.0 million be moved to the proposed Health Development Endowment Fund.
+
+10.8 RECOMMENDATION: A new Health Development Committee (HDC) with a dedicated annual Health Developmen? Endowment Fund should be established. In additlon to new funds for rhis Health Develoument Endowment Fund. those comuonents of the RADGAC funds,' AIDS, alcohol and related activities which are clearly identified as "development" funds should be placed under the aegis of this new Commitree and incorporated in the single new endowment Eund. It may also be desirable to move - some of the "development" activities of the special purpose committee of the HRC to the Health Development Committee but not any of the funds. The total sum available in this new Headeloprnenr Endowment Fund initially should be $15.0 million. The HDCfs composition should be analogous to that for the HRC except that at least - nine of the seventeen members should have a public health or population-based perspective and at least six of the eight ' researchers - should be highly competent in population-based disciplines. All Regional Grants Interviewing Committees should have a majority of members with a population-based perspective including epidemiologists, statisticians, demographers, economists, survey specialists and sociologists as well as one or more biomedical scientists and clinicians. As in the case of the Health Research Committee all proposals should undergo rigorous peer review and assessment: with external referees, in addition to interviews by Regional Grants Interview Committees. 
+
+10.9 The distinction between the Health Developmen? Committee and the Health Research Committee, is that Reauests for Proposals in response to suggestions received from bodies such as the proposed Australian Institute Eor Health, National Centre for Health Statistics and National Centre for Technology and Health Services Assessment, as well as the Australian Health Services Council, Committees OF the National Health and Medical Research Council, and external bodies, would be circulated by the Secretariat of the HDC to prospective investigators and institutions. The studies and activities supported by HDC would be problem-orienced or goal-oriented rather than investigator-initiated. 
+
+10.10 There will need to be a considerable amount of interaction between the members of the new Health Development Committee, its staff, and prospective principal investigators in the nurturing of new projects and proposals. A certain number of 'seed' or 'evangelical1 awards may need to be given to facilitate preparation of viable responses to proposals. In turn these may eventually lead to "re~earch~~ in contract to "development" projects which may be funded later by the Health Research Committee.
+
+ 10.11 Among the tasks the Health Development Committee should set for itself are the establishment of a series of S ecial - Units attached either to universities or institutions perrods of three to five years, followed by external review. Strenuous efforts should be made to identify 'individuals or small groups capable of developing these dedicated units for investigation of problems that have a direct bearing on ?he public's health and that use population-based methods. Accordingly it may be desirable to link the term epidemiology with a number of these. Examples might include: aboriginal health, ageing, behavioural health, genetics, immunology, perinatal health, primary care, rehabilitation, social  ealth, substance abuse, toxicology or tropical health. Some of these may eventually emerge as units appropriate for Eunding by the Health Research Committee. 
+
+10.12 RECOMMENDATION: The NHEMRC should review carefully its current practice of not funding projects or other grants from universities (such as ANU) or bodies (such as CSIRO) which are funded by direct government votes. The present arrangement could stifle initiatives from many competent investigators and would certainly hamper the work of the proposed new Research Centre for Epidemiology and Population Health at the Australian National University. 
+
+10.13 The present Medical Research Committee has previously 1 used --. its - limited research funds to support activities only f * marginally related to research such as Service .Reference Laboratories or ongoing statistical surveys such as the Market Basket Survey
+
+10.14 RECOMMENDATION: The support of any service Reference Laboratories should be moved to the National Health and Medical I , I Research Division's Pathology Laboratories Branch in the I Commonwealth Department of Health. Review of b0t.h the need for i new Reference Laboratories and the adequacy of existing laboratories should be conducted by ad hoc committees of cornpe tent scientists and other representatives where appropriate. Commonwealth Department of Health funding of Reference Laboratories, in particular, and pathology laboratories, especially service laboratories, in general, should be matters for negotiation between the Commonwealth Department of Health and State Health Departments. Many, if not all, of the Reference Laboratories may be located in universities or research institutes, but once established t.hey provide a service to the public and the medical profession as well as a research function, and the Eormer component at least warrants direct operating support from either Commonwealth or State Health Departments. 
+
+10.15 RECOMMENDATION: The Market Basket Survey is essentially a statistical service (and an extremely important one). and as such should be transferred to the proposed new national Centre for Health Statistics. The Director of t.his survey should be advised by the Principal Nutritionist and an appropriate committee.
 
 <div id='tropicalhealthmedicineanddiseases'/>
 
 ### 11. Tropical Health, Medicine and Diseases
 [Return to Table of Contents](#back)
 
+11.1 There is a consensus that the objectives of Tro ical Health are virtually identical to those of 'public hea nhii t tropical, as contrasted to temperate, regions. If education in public health focuses on generic problems and methods, then examples, problems and case studies from a variety of settings throughout the world could be employed for teaching. It seems probable that the new Research Centre for Epidemiology and Population Health proposed at the ANU will develop strong associations with the Research School for Pacific Studies and should, in due course, together with the Menzies School of Health Research, be an excellent site for training in public health as applied in t.he rropics. Public health training for overseas students will continue to be provided in the various universities and colleges which have or are developing MPH or equivalent courses.
 
+11.2 Tropical Medicine involves the recognition, diagnosis and management of diseases acquired by travellers and immigrants entering Australia from hot climates. Departments of medicine and/or infectious diseases in at least one medical centre in each State and in Canberra should have the capacity to cope with these clinical problems. It seems inappropriate to have only one dedicated national centre for these diseases which, in any event, are relatively few in number. It would be reasonable for one university to organise an annual short, intensive course for clinicians, including those in military service, to maintain their ciinical skills, in managing these problems
+
+11.3 Tropical Disease Surveillance does merit development,  specially in the northern half of Queensland. There is a need for rigorous education of physicians in the reporting requirements for all suspicious fevers and rashes of unknown origin and for related problems. More specifically, if Queensland' s Health Department was regionalised as is the case in most other States, it might be possible to provide closer surveillance of these problems in the North oZ that State.
+
+11.4 RECOMMENDATION: An Epidemiologic Surveillance Unit should be established in Townsville by the Department cf Health to improve both early reportrng @!=% improved acquisition of health statistics on the incidence and distribution of tropical and marine-based diseases in this region. A system of Sentinel Practices based on a network of participating general practices, as used in South Australia, would further strengthen this service. Related but apparently serious problems in Northern Queensland include Box Jellyfish stings, ciguatera poisoning, coral reef cut infections and diving misadventures. These must constitute serious problems for the tourist industry when colourful brochures depict beautiful beaches but omit mention of the signs which essentially say "don't go near the water from October to April! I' The Epidemiological Surveillance Unit proposed above should be funded by the Queensland Health Department with additional support from the tourist industry in the form of a hotel/or meal tax. The first task of this Unit would be to determine the extent of these problems and to generate clues to their control and possible eradication. This Unit coul'd be located in the Townsville General Hospital or the related Commonwealth Pathology Laboratory.
+
+11.5 Research in Tropical Diseases is already being conducted in a variety of places including the Australian National University, the Menzies School of Health Research, the Queensland Institute of Medical Research, the John Currin School of Medical Research, the University of Western Ausrralia and the Walter and Eliza Hall Institute of Medical Research. Progress in the control and prevention of these diseases is most likely to be made in those broadly-based research institutions that are goal- or problem-oriented and have a full array of skills and interests ranging from the laboratory, through the clinical to the population or the field. 
+
+11.6 RECOMMENDATION: The name of the Queensland Institute of Medical Research might be changed to The Queensland Institute of Health Research (QIHR) and it should be designated a major site for research in tropical diseases but not to the exclision of import.ant work being conducted elsewhere. In particular, the Menzies School of Health Research and the Walt,er and Eliza Hall 1nst.itute of Medical Research should be recognised as major centres for research in selected aspects of tropical diseases. Research staff in tropical medicine from @ the School of Public Health and Tropical Medicine might be transferred to the expanded QIMR. 
+
+11.7 The NHEMRC is said to be considering QIMR for block grant funding as a major national research institute. This should provide opportunities for expanding the scope and budget of the QIMR to include greater involvement in the diseases of the tropics including international work and for the establishment of the satellite unit proposed below.
+
+11.8 RECOMMENDATION: The QIMR should establish a research Satellite Unit. in Townsville located at the Australian 1nstit.ut.e ot Marine Sciences (AIMS). The problem-oriented approach employed at AIMS, the staff's broad array of skills, again spanning the spectrum from the bench laboratory to the field, their high quality, the existence of a decompression chamber, an interest in marine-based health problems and the new leadership by the former Director of the Sir George Fisher Centre of Marine Studies and the School of Biological Sciences at James Cook University, augur strongly for locafing this new QIMR Unit at AIMS. The problems to be tackled should include envenomation from marine stingers, ciguatera poisoning, coral reef cut infections and tropical physiology. The Unit should include a research epidemiologist and a biologist int.erested in these problems and it could be funded as part of the expanded NHEMRC institutional grant being considered for QIMR. Alternatively the Health Research Committee or the Health Development Committee might establish a dedicated Unit in the short term.
+
+11.9 Postgraduate Educat.ion in Tropical Disease Research is probably strengthened best by providing research based M.Sc. and Ph. D. degrees through collaboration between the  niversity of Queensland and t.he QIMR for selected bright, young domestic and overseas candidates.
+
+11.10 There is merit in expanding the budget of the I 1  xcellent James Cook University Graduate School of  eterinary ; Tropical Science to include additional resources in immunology f and epidemiology. 
+
+11.11 RECOMMENDATION: Additional funds should be sought by the university adminisrration from the CTEC to build on the substantial achievements - and first-rate international reputation of the James Cook University Graduate School and Veterinary Tropical Science. A high priority should be given to this initiative by the University.
+
+11.12 The facilities of the Malaria Field Station on Horn Island which provide support to the Queensland Department of Health in malaria vigilance should be transferred from the School of Public Health and Tropical Medicine to James Cook University to be shared by JCU,, QIMR, AIMS and the Queensland Department of Health. 
+
+11.13 The Australian Development Assistance Bureau should be
+encouraged to focus its tellowships for overseas candidates from countries in the tropics on the postgraduate education of bright, young academics through research directed at obtaining an M.Sc. or Ph.D. degree. This research could be either laboratory-based or population/field-based or a combination of the two. The QI'MR, The Mentie? School of Health Research, the Walter and Eliza Hall Institute of Medical Research, the University of Western Australia and, in due course, rhe proposed Research Centre for Epidemiology and Population Health at the Australian National University, should be first -rate institutions where such training is available.
+
+11.14 The ADAB overseas fellowship stipends are considerably below those for domestic students of equivalent status and this appears to present many inequities which should be addressed promptly
 
 <div id='managementtraining'/>
 
 ### 12. Management Training
 [Return to Table of Contents](#back)
 
+12.1 With about $15,000.0 million annually flowing through the Australian health care system, it is essential that first: rate managers - both medical and non-medical, be attracted and retained in the public service. It would appear that less rhan 5% of the management posts in the country's health departments are filled with individuals who have had formal training for their responsibilities. The several courses in health services administration, and particularly those at the School of Health Administration, University of New South Wales, are perceived, in many quarters, as failing to meet fully the needs for top level managers. Leadership and skills are required to deal with the horrendous problems of using the $15,000.0 million of health expenditures ef fectively and efficiently to meet: the population's health needs. The institutions providing courses in health services might be assisted in re-ordering their programs. 
 
+12.2 RECOMMENDATION: A national review of posrgraduate education in Health Services Management should be undertaken with attention paid to recruitmenr, retention, career structures and compensation. 
+
+12.3 RECOMMENDATION: In the meantime, since there is an urgent need to train a cadre of bright young managers, the Australian Graduate at the University of New South Wales shou Health Services Module of perhaps 6-8 weeks duration to its regular MBA course. The Health Services Module could be organised either by the new Department of Community Medicine (or renamed Department of Epidemiology and Population Health) at Westmead Hospital, University of Sydney, or by the proposed new Research Centre for Epidemiology and Population Health at the Australian National University. This module could be taken before, after or concurrently, with the MBA course. 
+
+12.4 About ten candidates per year might be attracted to the course, half of them could be young physicians and half non-physicians with stipends of at least $30,000 per year for a total annual payment of about $0.3 million, and another $50,000 could be provided to pay for the health services module. These funds should be awarded through the Health Development Committee on the basis of an annual nat.iona1 competition but selection of. candidates should be done by the University in concert with the Health Development. Committee. This might entail a budget of $0.35 million recommended annually for Population Health and Management Fellowships. Those receiving fellowships might well be expected to spend two years in the public service either at Commonwealth or State levels for every year of fellowship support received 
 
 <div id='collegesofadvancededucation'/>
 
 ### 13. Colleges of Advanced Education
 [Return to Table of Contents](#back)
 
+13.1 Apart from physicians, the great majority of health professionals working at the "coal-face" in providing support, instruction, care and love to those doing the suffering and paying the bills are trained in Colleges of Advanced Education. An excellent example is to be found in the Division of Health Sciences in the Western Australian Institute of Technology. Other related institutions include the Lincoln Institute, Cumberland College, the South Australian Institute of Technology, and the Mitchell College of Advanced Education. These institutions should be supported with additional funds from the Health Development Committee in order to strengthen their teaching of community development, nursing, epidemiology, i health services evaluation, health education and promotion, sociology in medicine, nutrition, and middle level management of health care institutions and services. 
 
+13.2 RECOMMENDATION : There should be one -t ime endowments or funds of a set sum of say $300,000 to $500,000 each to provide additional faculty for suitable Colleges of Advanced Education. These funds should be distributed on a competitive basis for six years, followed by an external review. It is hoped that this effort would strenghten these highly important Colleges for training essential health workers with a broader population perspective in providing essential services. These funds should be part of the $2.0 million recommended for Faculty positions in State Universities or Colleges of Advanced Education (see 9.22). 
 
 <div id='careerstructures'/>
 
 ### 14. Career Structures
 [Return to Table of Contents](#back)
 
+14.1 The first need is to have people in academic organisational and institutional positions who are "role models". They will then attract others to do likewise. The recommendations above are designed to do this but clearly ?here will need to be career structures established with . appropriately generous remuneration in health departments, hospitals, community health centres, universities and research institutions. The review did not examine either the pay scales or the career structures in detail but there is a widespread perception that they are inadequate to attract first-rate candidates. One may observe, however, that both the public and the private sector get bhat they pay for. 
 
+14.2 .RECOMMENDATION: There should be a thorough review of career structures and salaries at national, state, local and institutional levels in the fields. germane to "public health". The salary structures in the broad fields of "public health" and "health services" should be compared with remuneration in other service sectors in Australia and appropriate recommendations should be made to recruit and retain the best people.
 
 <div id='towardsonenationalaccomplishment'/>
 
 ### 15. Towards One National Accomplishment
 [Return to Table of Contents](#back)
 
+15.1 As Australia moves towards its bicentennial, there should be at least one health improvement initiative that will be seen to be clearly successful. This can be achieved if the country sets its mind to it. Seat-belt: legislation and compliance with the law are a case in point; Australia has led the world. If the following recommendation emerges from the Better Health Commission report so much to the good.
 
+15.2 RECOMMENDATION : Australia should set as its bicentennial goal, in connection with this entire Bicentennial Health Initiative, the reduction of alcohol-related traffic accidents and deaths by 30%. TFis a do-able task. 1 t requires a full-time director, a high powered advisory board made up of three or four parents of teenagers killed in automobile accidents, representatives of the brewing, automobile manufacturing and insurance industries, clinicians who are trauma experts, one or two paraplegics injured in alcohol-related traffic accidents, the police, rhe media, advertising agencies, health promotion authorities and others, all led by a distinguished citizen with a demonstrated track record of accomplishment. There should be national, State and local committees forned throughout the country and a massive campaign mounted. Weekly statistical reports using graphic TV and newspaper pictures of accidents and tours of trauma units should be widely disseminated. A speakersf bureau should be set up and audiovisual aids provided.
+
+15.3 Success would show the public, the profession and the politicians, that better health can in facc be achieved. Granted this is a reduction in injury and suffering, not true enhancement of health, but it would surely be a step in the right direction.
 
 <div id='financing'/>
 
 ### 16. Financing
 [Return to Table of Contents](#back)
 
+16.1 It is estimated that about $15,000.0 million is expended on health services annually in Australia or about $1,000 per person. Of this about one third comes directly from the Commonweaith Government and more than another third flows through the State goveraments, hospitals and private insurance carriers. Additional funds come from voluntary agencies and personal outlays. The Commonwealth Department of Health spends directly $67.0 million annually on research, developmenr:, information and public health training or $4.70 per person annually. In addition, lircitzd research funds may flow through the CTEC, ASTEC, CSIRO, the hospitals and private foundations. 
+
+16.2 By any comparison with most orher western industrialised countries, and certainly by comparison with industry where 4%-6% of expenditures is spent on research, development and information, this fraction is quite inadequare given Australia's resources. Overall expenditures for research, development, information and new initiatives in public health training, should reach at least 1% of total health expenditures fram all public and private sectors or initially at Least $150.0 million annually of which $200.0 million should come from public service.
+
+16.3 If Australia is to seize its Bicentennial opportunity to re-position resources, personnel and priori'ties, develop strategies for containing costs, provide access to Eirsr-rate services, and support research of all types to deal with contemporary health problems, and attract and educate the .best young minds to accomplish these tasks, the country's investment should be increased.
+
+16.4 The Commonwealth Department of Health's current expenditures for health research, development, information and public health education is about $67.7 million annually. This additional proposed amount of approximately $33.0 million to raise the level to $100 million annually represents only 1.5 of the--1% Federal Medicare tax together with 1.5% of the value oE premiums received by Health Insurance Funds. As a minimum, at least $100 million a year should be provided to support the following components of Federal health research, development., information and public health education: 
+
+| Group| AUD |
+| .-- | .-- |
+|Australian Academy of Health | 1.5m |
+|Australian Institute of Health | 0.5m |
+| National Centre for Health Statistics | 2.0m |
+| National Centre for Technology and Health Services Assessment | 1.5m |
+| Health Research Endowment Fund | 70m |
+| Health Development Endowment Fund | 15m |
+| Research Centre for Epidemiology and Population Health | 2.0m |
+| Faculty positions in State Universities and College of Advanced Education | 5.0m |
+| Population Health and Management Fellowships | 2.0m |
+| Towards one National Bicentennial Accomplishment | 1.0m |
+| __Total__ | 100.5m | 
 
 
 <div id='references'/>
@@ -374,32 +494,8 @@ This new Research Centre should not attempt to train ,managers or administrators
 ## References
 [Return to Table of Contents](#back)
 
-
-
-<div id='appendices'/>
-
-## Appendices
-[Return to Table of Contents](#back)
-
-
-
-<div id='submissionsreceived'/>
-
-### Submissions Received 
-[Return to Table of Contents](#back)
-
-
-
-<div id='individualsinterviewedduringthecourseoftheindependentreview'/>
-
-### Individuals Interviewed During The Course of The Independent Review
-[Return to Table of Contents](#back)
-
-
-
-<div id='seminaronpublichealthandtropicalhealthlistofparticipants'/>
-
-### Seminar on Public Health and Tropical Health: List of Participants 
-[Return to Table of Contents](#back)
-
+1. Vickers G. What Sets the Goals of Public Health? The Lancet, 1:599-604, 1958. 
+2. Rose W. School of Public Health. Unpublished manuscript prepared for The Rockefeller Foundation's International Hea1t.h Board. North Tarrytown, New York, Rockefeller Archives Centre, 1915. 
+3. Acheson R.M. Professor of Community Medicine, University of Cambridge. Personal Communication on the History of Public Health Education prepared for a forthcoming - conference and book. 
+4. Ministry of Health. Consultative Council on the Future  Provision of Medical and Allied Services. Interim Report. Chairman Lord Dawson. United Kingdom, Cmd.(693) H.M.S.O., 1920.
 
