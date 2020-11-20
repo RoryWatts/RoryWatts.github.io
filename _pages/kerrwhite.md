@@ -5,14 +5,13 @@ title: ""
 author_profile: true
 ---
 
-The "Kerr White report" is formally known as the 'Independent review of research and educational requirements for public health and tropical health in Australia'. It is an important report which has influenced the development of public health in Australia, but unfortunately can be quite tricky to obtain. I decided to convert the majority of the report's content to text for those who might find it useful.
+The "Kerr White report" is formally known as the 'Independent review of research and educational requirements for public health and tropical health in Australia'. It was conducted by the late Kerr L. White MD, and is an important landmark in public health development in Australia. Unfortunately the document can be quite tricky to obtain. I decided to convert the majority of the report's content to a more readable format for those who might find it useful.
 
-I do not own the rights to this publication. 
+N.B. I do not own the rights to this publication. 
 Currently, there is a link to the PDF of this report [available here](https://www1.health.gov.au/internet/main/publishing.nsf/Content/C66647AAB9871405CA257BF000209A71/\\$File/pherp-review-1986.pdf). 
+Furthermore, formatting is my own. There may be mistakes, which are either the fault of my own, or the fault of the PDF reader which interpreted the scanned images.
 
-N.B. Formatting is my own. There may be mistakes, which are either the fault of my own, or the fault of the pdf reader which interpreted the scanned images.
-
-# Independent review of research and educational requirements for public health and tropical health in Australia
+# Independent review of research and educational requirements for public health and tropical health in Australia by Kerr L White MD
 
 <div id='back'/>
 
