@@ -113,7 +113,7 @@ __RECOMMENDATION:__ Australia should set as its bicentennial goal, in connection
 [Return to Table of Contents](#back)
 <div id='conceptualframework'/>
 
-### Conceptual Framework
+### 1. Conceptual Framework
 [Return to Table of Contents](#back)
 
 1.1 Some argue that "medicine" is a subset of "public health" and others the opposite. Health and disease states are parts of a continuum. The fact that suffering individuals label their problems with one set of terms and that health professionals use other terms has little to do with the underlying realities experienced by those doing the suffering and footing the bill. 
@@ -124,11 +124,11 @@ __RECOMMENDATION:__ Australia should set as its bicentennial goal, in connection
 
 1.4 Problems are studied where there is the best chance of finding an answer. These studies should have a bearing in the short-term or the long-term on health problems experienced by the public which finances the whole health care apparatus. One part of these three spectrums is not 'good or 'bad', 'right 'wrong', 'hard' or 'soft' - all have their place and all deserve attention. Just as the biomedical and clinical perspectives now permeate the health care enterprise, so should the population perspective. 
 
-1.5 Australia needs not just more "public health" workers but more "population-based" thanking throughout the health sciences and the health services (1). That is what Australia's Bicentennial Health Initiative should be all about. 
+1.5 Australia needs not just more "public health" workers but more "population-based" thanking throughout the health sciences and the health services (1). That is what Australia's Bicentennial Health Initiative should be all about.
 
 <div id='problemsandissues'/>
 
-### Problems and Issues
+### 2. Problems and Issues
 [Return to Table of Contents](#back)
 
 2.1 The history of political, professional and scientific efforts to improve the health of the public i.e. all the people, is replete with widely divergent views on both the goals and the strategies to achieve them. To some the goals are determined by successive re-definitions of what has become socially and politically unacceptable, to others they are determined by a set of risk aversion strategies for perceived threats to the population, and for yet another group they are concerned with the optimum attainment of individual and collective potential for "well-being" to be measured in often unstated or abstract fashions.  
@@ -141,9 +141,9 @@ __RECOMMENDATION:__ Australia should set as its bicentennial goal, in connection
 
 2.5 f Seventy years ago the Rockefeller Foundation, on the basis of a hastily drafted document, decided to embark on a new approach to training medical officers of health who would undertake strategies for the control of environmentally based diseases and for the immunisation of populations against selected communicable diseases. To this endeavour was added a research component based on the German Institutes of iene(2). The Foundation underwrote the Johns Hopkins School of Hygiene and Public Health and replicated it in London, Toronto, Tokyo and numerous other cities in Europe, Asia and Latin America. An alternative model in which the Harvard School of Medicine would provide training in a broadly defined field of "preventive medicine" for physicians, and the Massachusetts Institute of Technology would train sanitary engineers and others in the physical and natural sciences to work on "public health problems'' was rejected. The history of both the intellectual and political basis for this decision has only recently been explored and is yet to be fully evaluated and published(j)
 
-2.6 The net effect of this seventy-year old experiment has been that schools of medicine were deprived of the population-based perspective. In turn, cl inicians learned little or nothing about the precursors of illnesses which people experience within their natural habitats where they live, eat, work, struggle for a better life and die. Nor do clinicians learn nuch about their patients1 lives after leaving the hospital.
+2.6 The net effect of this seventy-year old experiment has been that schools of medicine were deprived of the population-based perspective. In turn, clinicians learned little or nothing about the precursors of illnesses which people experience within their natural habitats where they live, eat, work, struggle for a better life and die. Nor do clinicians learn much about their patients lives after leaving the hospital.
 
-2.7 Separate schools of public health have operated apart from the mainstream of scientific medicine which has flourished over the last two generations. However, these Schools have been largely responsible for. developing the principal scientific and quantitative methods for understanding group phenomena in populations and communities. Epidemiology, literally "the study of that which is upon the people" was developed originally by the leading university clinicians of London in the middle of the 19th Century. As a consequence of the separation of "public health" from "medicine", epidemiology is now largely the province of schools of public health, and it has only recently been re-introduced into medical schools and especially into cl inical departments where it originated. This presents many academics and clinicians with unfamiliar perspectives, methods and quesrions, and yet these are really only extensions of the scientific method to the study of groups of populations and communities, in addition to te Reople9 srudy i.e. of molecular and cellular phenomena and of individual patienrs.
+2.7 Separate schools of public health have operated apart from the mainstream of scientific medicine which has flourished over the last two generations. However, these Schools have been largely responsible for. developing the principal scientific and quantitative methods for understanding group phenomena in populations and communities. Epidemiology, literally "the study of that which is upon the people" was developed originally by the leading university clinicians of London in the middle of the 19th Century. As a consequence of the separation of "public health" from "medicine", epidemiology is now largely the province of schools of public health, and it has only recently been re-introduced into medical schools and especially into clinical departments where it originated. This presents many academics and clinicians with unfamiliar perspectives, methods and questions, and yet these are really only extensions of the scientific method to the study of groups of populations and communities, in addition to te Reople9 srudy i.e. of molecular and cellular phenomena and of individual patienrs.
 
 2.8 To all these considerations one must add a revolution of rising expectations. Equal access to health care has become a - - - right and all essential services are assured to the entire population. It follows that governments and their hzalth departments find themselves collecting and dispersing vast sums of money directed at "improving the public's health". Increasingly they are called upon not only to account for the money but to say what has been accomplished and whether the people's needs are being met. This notion of overall accountability and its correlates of populat ion-based measurements and evaluations may appear quaint to some. Both those with a narrow view of "public health" as being concerned . essentially with risks or threats from environmentally-based diseases, and those trained in clinical medicine with the mind-set that "doctors know best" are just beginning to appreciate the revolution which is under way.
 
@@ -175,98 +175,122 @@ __RECOMMENDATION:__ Australia should set as its bicentennial goal, in connection
 
 <div id='australiasbicentennialhealthinitiative'/>
 
-### Australia's Bicentennial Health Initiative 
+### 3. Australia's Bicentennial Health Initiative 
 [Return to Table of Contents](#back)
 
+3.1 Some -or all of the proposals stemming from this review could be considered and announced as Australia's Bicentennial Health Initiative. These should be seen as a constructive ser. ot clearly deiined and interrelated entities with specified objectives designed to mobilise Australia's many human resources to improve individual and collective health. The adversarial and confrontational posturing and overt conflicts that have characterised the Australian health care scene for the past decade or more appear outmoded and counter-product ive. 
 
+3.2 How can Australia best improve the quality and nature of the debates about health and health services? How can credible statistics and information be generated that all can use for any helpful purposes to enlighten and enliven debates? How can the country mobilise its talents, governments and universities to improve the publict s health? How can efficacious, useful and usable interventions, scientifically based, be provided compassionately and effectively? How can reasonable proportions of the best young minds be recruited  and retained to lead these ini t iatlves and undertake these tasks? How can Australia's people demonstrate concretely that they have the political will and organisational capacity to achieve at least one clear cut goal that will substantially improve health? The comments and recommendations that follow are made
+with these objectives in mind.
 
 <div id='australianacademyofhealth'/>
 
-### Australian Academy of Health
+### 4. Australian Academy of Health
 [Return to Table of Contents](#back)
 
+4.1 A national forum is needed for debating and developing
+recommendations for policies and practices that bear on the
+national health in the broadest sense of the term. 
 
+4.2 RECOMMENDATION: An Australian Academy of 'Health should
+be established. Initially a small interim task force should be appointed by the Minister to develop legislation, procedures and a budget for this new body. A group of, perhaps 15-20, founding members would elect additional members annually to a total of perhaps 150-200 members who would serve without remuneration (apart from travel expenses) for f i v e - y e a r terms, renewable Eor a second (or possibly a third) term on the basis of performance and contributions. There should be a full-time .paid President who is an individual of substantial scientific accomplishment appointed Eor a five-year term. A part-time elected unpaid Governing Council and a full-time professional staff of perhaps 8-10 with appropriate support personnel would support' the President and the members.
+
+ 4.3 Members should consist of individuals (not representatives of universities, colleees. societies. organisations or other bodies). .\bout 60% of these should be health professionaLs with two thirds those physicians, including biomedical scientists , clinicians, medica administrators and population-based scientists . The last third should be distributed among the other health professionals such as community health workers, dentists, nurses, nutritionists, pharmacists, public health workers (non-medical), social workers, and veterinarians, etc. The 40% component of non-health professionals should be composedof, for example, anatomists, anthropologists, biochemists, cell biologists, clergy, demographers, economists, immunologists, lauyers, managers, physiologists, psychologists, sociologists and involved lay persons. 
+
+4.4 This would be a workinq, not an honourific academy. Through well-balanced composition of the Committees, which might also co-opt non-academy members, and Task Forces, staffed from the full-time staff, the Australian Academy of Health would examine, critically, issues of nat ionai azd perhaps local, as we11 as regional importance. Reports should be carefully reviewed and once released they should be widely disseminated and discussed.
+
+4.5 The Academy would be free-standing xith its om Governing Council and would not be under any form of direct- or indirect government control. It should have continuing core funding for its President, its staff and adequate travel funds. Additional funds should be sought from private sourzes such as the Menties Foundation and other philanthropic bodies so that the Academy would no: be entirely dependent c)n government funds. Special studies might be funded by the proposed Health Development Committee of the YHGMRC, the proposed National Centre for Pealth Statistics, the proposed National Centre for Technology and Health Services  ssessrnenr (see below) and other Commonwealth and State Governmental units. 
+
+4.6 The Academy's agenda could be partly generated by its membership, and partly by requests Eor studies from the Commonwealth Department of Health and other Federal departments, from State Health Departments, professional colleges, community agencies, voluntary bodies and other external sources. The final selection of matters for study would be undertaken by the Academy's Program Committe
+
+4.7 Such an Australian Academy of Health, model led in part after the Institute of Medicine in the U.S. National Academy of Sciences, should go a long way towards elevating the level of debate, reducing the confrontational crises which see.m to characterise discussions about health and medical problems in Australia, and improving the quality and understanding of both the country's problems and the options and choices for rheir resolution. 
 
 <div id='australianinstituteofhealth'/>
 
-### Australian Institute of Health
+### 5. Australian Institute of Health
 [Return to Table of Contents](#back)
 
+5.1 This innovative approach towards information-based policy analysis and decision-making is highly commendable. It has been given, however, an unusually broad mandate, inadequately defined responsibilities and ambiguous relationships to the Commonwealth and State Governments and to universities, varying time frames for reporting, and a current agenda inherited from disparate predecessor bodies. It is difficult to see how the talents of the staff can be effectively employed unless they are more clearly defined and the several essential elements of the organization given specific mandates and new legislation. The substantial conceptual advances represented by the creation of the AIH should now be clarified and strengthened and to that end, the following three recommendations are made.
 
+__RECOMMENDATION:__ The AIH should be strengthened by giving it a more clearly defined role as the substantial policy analysis and intelligence group working directly for the Minister and Secretary and reporting to the latter or the Deputy Secretary. It should have a Director and staff of perhaps 6 to 8 professionals with appropriate support personnel. The Minister and the Secretary, together with the Director, should set the AIH's agenda. Although there could be an external advisory council this does not appear to be essential. The name of the unit might be changed to the Australian Institute for Health POlicy Analysis (AIHPA) or the Health Policy Analysis Unit at some later date but this is not material.
 
 <div id='nationalcentreforhealthstatistics'/>
 
-### National Centre for Health Statistics
+### 6. National Centre for Health Statistics
 [Return to Table of Contents](#back)
 
+6.1 __RECOMMENDATION:__ A National Centre for Health Statistics, (NCHS) together with a National Advisory Commi ttee ' ,on Health and Vital Statistics (NACHVS) should be established -,by le islation. The Director of the NCHS, advised by the NACHVS, + s oul report to the Australian Health Services Council at least annually with two documents entitled "Health :Australia: 19.. and "Problems and Progress with- ..Development of Health statistics in Australiatt. In addition, . the Director of the NCHS should report administratively to the ,.Secretary or Deputy Secretary of the Department. The NCHS should be, and be perceived to be, a non-political, scientific centre serving the entire nation.
 
+ 6.2 The NCHS should develop and promulgate conventions, :; standards, terms, definitions, minimum data sets, codes and classifications for the Nation's health statistics. Contractural arrangements with the States, the Australian Bureau of Statistics, and survey organisations should be entered into for one-time acquisition of parsimonious data  ets suitable for aggregation and analysis at all agreed levels of geo-political, managerial and clinical concerns and decision-working. It is essential that costs, charges and expenditure data be linked with clinical data so that measures of needs, resources (facilities, equipment and personnel), use and outcomes and benefits can be related and analyzed.
+
+ 
 
 <div id='nationalcentrefortechnologyandhealthservicesassessment'/>
 
-### National Centre for Technology and Health Services Assessment
+### 7. National Centre for Technology and Health Services Assessment
 [Return to Table of Contents](#back)
 
 
 
 <div id='schoolofpublichealthandtropicalmedicine'/>
 
-### School of Public Health and Tropical Medicine
+### 8. School of Public Health and Tropical Medicine
 [Return to Table of Contents](#back)
 
 
 
 <div id='institutionalarrangementsforpublichealtheducation'/>
 
-### Institutional Arrangements for Public Health Education
+### 9. Institutional Arrangements for Public Health Education
 [Return to Table of Contents](#back)
 
 
 
 <div id='nationalhealthandmedicalresearchcouncil'/>
 
-### National Health and Medical Research Council 
+### 10. National Health and Medical Research Council 
 [Return to Table of Contents](#back)
 
 
 
 <div id='tropicalhealthmedicineanddiseases'/>
 
-### Tropical Health, Medicine and Diseases
+### 11. Tropical Health, Medicine and Diseases
 [Return to Table of Contents](#back)
 
 
 
 <div id='managementtraining'/>
 
-### Management Training
+### 12. Management Training
 [Return to Table of Contents](#back)
 
 
 
 <div id='collegesofadvancededucation'/>
 
-### Colleges of Advanced Education
+### 13. Colleges of Advanced Education
 [Return to Table of Contents](#back)
 
 
 
 <div id='careerstructures'/>
 
-### Career Structures
+### 14. Career Structures
 [Return to Table of Contents](#back)
 
 
 
 <div id='towardsonenationalaccomplishment'/>
 
-### Towards One National Accomplishment
+### 15. Towards One National Accomplishment
 [Return to Table of Contents](#back)
 
 
 
 <div id='financing'/>
 
-### Financing
+### 16. Financing
 [Return to Table of Contents](#back)
 
 
