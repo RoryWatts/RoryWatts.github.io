@@ -17,23 +17,23 @@ Furthermore, formatting is my own. There may be mistakes, which are either the f
 
 ## TABLE OF CONTENTS
 
-[Summary of Recommendations](#summaryofrecommendations)
-[1. Conceptual Framework](#conceptualframework)  
-[2. Problems and Issues](#problemsandissues)
-[3. Australia's Bicentennial Health Initiative](#australiasbicentennialhealthinitiative) 
-[4. Australian Academy of Health](#australianacademyofhealth)
-[5. Australian Institute of Health](#australianinstituteofhealth)
-[6. National Centre for Health Statistics](#nationalcentreforhealthstatistics)
-[7. National Centre for Technology and Health Services Assessment](#nationalcentrefortechnologyandhealthservicesassessment)
-[8. School of Public Health and Tropical Medicine](#schoolofpublichealthandtropicalmedicine)
-[9. Institutional Arrangements for Public Health Education](#institutionalarrangementsforpublichealtheducation)
-[10. National Health and Medical Research Council](#nationalhealthandmedicalresearchcouncil) 
-[11. Tropical Health, Medicine and Diseases](#tropicalhealthmedicineanddiseases)
-[12. Management Training](#managementtraining)
-[13. Colleges of Advanced Education](#collegesofadvancededucation)
-[14. Career Structures](#careerstructures)
-[15. Towards One National Accomplishment](#towardsonenationalaccomplishment)
-[16. Financing](#financing)
+[Summary of Recommendations](#summaryofrecommendations)<br>
+[1. Conceptual Framework](#conceptualframework) <br> 
+[2. Problems and Issues](#problemsandissues)<br>
+[3. Australia's Bicentennial Health Initiative](#australiasbicentennialhealthinitiative) <br>
+[4. Australian Academy of Health](#australianacademyofhealth)<br>
+[5. Australian Institute of Health](#australianinstituteofhealth)<br>
+[6. National Centre for Health Statistics](#nationalcentreforhealthstatistics)<br>
+[7. National Centre for Technology and Health Services Assessment](#nationalcentrefortechnologyandhealthservicesassessment)<br>
+[8. School of Public Health and Tropical Medicine](#schoolofpublichealthandtropicalmedicine)<br>
+[9. Institutional Arrangements for Public Health Education](#institutionalarrangementsforpublichealtheducation)<br>
+[10. National Health and Medical Research Council](#nationalhealthandmedicalresearchcouncil) <br>
+[11. Tropical Health, Medicine and Diseases](#tropicalhealthmedicineanddiseases)<br>
+[12. Management Training](#managementtraining)<br>
+[13. Colleges of Advanced Education](#collegesofadvancededucation)<br>
+[14. Career Structures](#careerstructures)<br>
+[15. Towards One National Accomplishment](#towardsonenationalaccomplishment)<br>
+[16. Financing](#financing)<br>
 [References](#references)
 
 <div id='summaryofrecommendations'/>
@@ -209,13 +209,13 @@ __RECOMMENDATION:__ The AIH should be strengthened by giving it a more clearly d
 ### 6. National Centre for Health Statistics
 [Return to Table of Contents](#back)
 
-6.1 __RECOMMENDATION:__ A National Centre for Health Statistics, (NCHS) together with a National Advisory Commi ttee ' ,on Health and Vital Statistics (NACHVS) should be established -,by le islation. The Director of the NCHS, advised by the NACHVS, + s oul report to the Australian Health Services Council at least annually with two documents entitled "Health :Australia: 19.. and "Problems and Progress with- ..Development of Health statistics in Australiatt. In addition, . the Director of the NCHS should report administratively to the ,.Secretary or Deputy Secretary of the Department. The NCHS should be, and be perceived to be, a non-political, scientific centre serving the entire nation.
+6.1 __RECOMMENDATION:__ A National Centre for Health Statistics, (NCHS) together with a National Advisory Committee on Health and Vital Statistics (NACHVS) should be established by legislation. The Director of the NCHS, advised by the NACHVS, should report to the Australian Health Services Council at least annually with two documents entitled "Health :Australia: 19.." and "Problems and Progress with the Development of Health statistics in Australia. In addition, the Director of the NCHS should report administratively to the Secretary or Deputy Secretary of the Department. The NCHS should be, and be perceived to be, a non-political, scientific centre serving the entire nation.
 
- 6.2 The NCHS should develop and promulgate conventions, :; standards, terms, definitions, minimum data sets, codes and classifications for the Nation's health statistics. Contractural arrangements with the States, the Australian Bureau of Statistics, and survey organisations should be entered into for one-time acquisition of parsimonious data  ets suitable for aggregation and analysis at all agreed levels of geo-political, managerial and clinical concerns and decision-working. It is essential that costs, charges and expenditure data be linked with clinical data so that measures of needs, resources (facilities, equipment and personnel), use and outcomes and benefits can be related and analyzed.
+6.2 The NCHS should develop and promulgate conventions, standards, terms, definitions, minimum data sets, codes and classifications for the Nation's health statistics. Contractual arrangements with the States, the Australian Bureau of Statistics, and survey organisations should be entered into for one-time acquisition of parsimonious data  sets suitable for aggregation and analysis at all agreed levels of geo-political, managerial and clinical concerns and decision-working. It is essential that costs, charges and expenditure data be linked with clinical data so that measures of needs, resources (facilities, equipment and personnel), use and outcomes and benefits can be related and analyzed.
 
- 6.3 The NCHS should publish periodic reports on substantive and methodological subjects which are widely I disseminated, and arrange for data tapes to be made available : for research with due regard to confidentiality of patients1, i institutions' , and physicians' names. 
+6.3 The NCHS should publish periodic reports on substantive and methodological subjects which are widely I disseminated, and arrange for data tapes to be made available : for research with due regard to confidentiality of patients1, i institutions' , and physicians' names. 
 
- 6.4 The Director should be selected by international competition and a staff of 15 to 20 professionals and appropriate support personnel will be needed. The staff should i include statiticians, health economists, clinical : epidemiologists, demographers and social survey experts. The Advisory Committee should have about 12 to 15 members with a ; majority of experienced population-based scientists on it as ' we11 as bio-medical scientists, clinicians and  epresentatives : of consumers' and community organisations.
+6.4 The Director should be selected by international competition and a staff of 15 to 20 professionals and appropriate support personnel will be needed. The staff should i include statiticians, health economists, clinical : epidemiologists, demographers and social survey experts. The Advisory Committee should have about 12 to 15 members with a ; majority of experienced population-based scientists on it as ' we11 as bio-medical scientists, clinicians and  epresentatives : of consumers' and community organisations.
 
 6.5 The first tasks of the NCHS should include:
 
