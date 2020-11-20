@@ -103,11 +103,7 @@ __RECOMMENDATION:__ Australia should set as its bicentennial goal, in connection
 
 <div id='maincontent'/>
 
-## Main Content
-[Return to Table of Contents](#back)
-<div id='conceptualframework'/>
-
-### 1. Conceptual Framework
+## 1. Conceptual Framework
 [Return to Table of Contents](#back)
 
 1.1 	Some argue that "medicine" is a subset of "public health" and others the opposite. Health and disease states are parts of a continuum. The fact that suffering individuals label their problems with one set of terms and that health professionals use other terms has little to do with the underlying realities experienced by those doing the suffering and footing the bill. 
@@ -122,7 +118,7 @@ __RECOMMENDATION:__ Australia should set as its bicentennial goal, in connection
 
 <div id='problemsandissues'/>
 
-### 2. Problems and Issues
+## 2. Problems and Issues
 [Return to Table of Contents](#back)
 
 2.1 The history of political, professional and scientific efforts to improve the health of the public i.e. all the people, is replete with widely divergent views on both the goals and the strategies to achieve them. To some the goals are determined by successive re-definitions of what has become socially and politically unacceptable, to others they are determined by a set of risk aversion strategies for perceived threats to the population, and for yet another group they are concerned with the optimum attainment of individual and collective potential for "well-being" to be measured in often unstated or abstract fashions.  
@@ -169,7 +165,7 @@ __RECOMMENDATION:__ Australia should set as its bicentennial goal, in connection
 
 <div id='australiasbicentennialhealthinitiative'/>
 
-### 3. Australia's Bicentennial Health Initiative 
+## 3. Australia's Bicentennial Health Initiative 
 [Return to Table of Contents](#back)
 
 3.1 Some or all of the proposals stemming from this review could be considered and announced as Australia's Bicentennial Health Initiative. These should be seen as a constructive set of clearly defined and interrelated entities with specified objectives designed to mobilise Australia's many human resources to improve individual and collective health. The adversarial and confrontational posturing and overt conflicts that have characterised the Australian health care scene for the past decade or more appear outmoded and counter-productive. 
@@ -178,7 +174,7 @@ __RECOMMENDATION:__ Australia should set as its bicentennial goal, in connection
 
 <div id='australianacademyofhealth'/>
 
-### 4. Australian Academy of Health
+## 4. Australian Academy of Health
 [Return to Table of Contents](#back)
 
 4.1 A national forum is needed for debating and developing recommendations for policies and practices that bear on the national health in the broadest sense of the term. 
@@ -197,7 +193,7 @@ __RECOMMENDATION:__ Australia should set as its bicentennial goal, in connection
 
 <div id='australianinstituteofhealth'/>
 
-### 5. Australian Institute of Health
+## 5. Australian Institute of Health
 [Return to Table of Contents](#back)
 
 5.1 This innovative approach towards information-based policy analysis and decision-making is highly commendable. It has been given, however, an unusually broad mandate, inadequately defined responsibilities and ambiguous relationships to the Commonwealth and State Governments and to universities, varying time frames for reporting, and a current agenda inherited from disparate predecessor bodies. It is difficult to see how the talents of the staff can be effectively employed unless they are more clearly defined and the several essential elements of the organization given specific mandates and new legislation. The substantial conceptual advances represented by the creation of the AIH should now be clarified and strengthened and to that end, the following three recommendations are made.
@@ -206,7 +202,7 @@ __RECOMMENDATION:__ The AIH should be strengthened by giving it a more clearly d
 
 <div id='nationalcentreforhealthstatistics'/>
 
-### 6. National Centre for Health Statistics
+## 6. National Centre for Health Statistics
 [Return to Table of Contents](#back)
 
 6.1 __RECOMMENDATION:__ A National Centre for Health Statistics, (NCHS) together with a National Advisory Committee on Health and Vital Statistics (NACHVS) should be established by legislation. The Director of the NCHS, advised by the NACHVS, should report to the Australian Health Services Council at least annually with two documents entitled "Health :Australia: 19.." and "Problems and Progress with the Development of Health statistics in Australia. In addition, the Director of the NCHS should report administratively to the Secretary or Deputy Secretary of the Department. The NCHS should be, and be perceived to be, a non-political, scientific centre serving the entire nation.
@@ -231,7 +227,7 @@ These activities may we11 take up to two years but the overall j plan should be 
 
 <div id='nationalcentrefortechnologyandhealthservicesassessment'/>
 
-### 7. National Centre for Technology and Health Services Assessment
+## 7. National Centre for Technology and Health Services Assessment
 [Return to Table of Contents](#back)
 
 7.1 RECOMMENDATION: A National Centre for Technology and ,Health Services Assessment (NcTGHSA) with a National Advisory &Committee on Technology and Health Services Assessment , ( ACT\\$HSA) should be established by legislation. The Director of the NCT\\$HSA, with advice from the NACTEHSA, should report directly to the Australian Health Services Council annually with ,---a document entitled "Problems and Progress in Technology and Health Service Assessment". For administrative purposes the Director oE the NCTEHSA should report to the Secretary or Deputy 1 Secretary of the Commonwealth Department of Health but the i NCTGHSA should serve and be perceived to serve the entire nation.
@@ -252,7 +248,7 @@ These initial activities may well take two years but the overall plans should be
 
 <div id='schoolofpublichealthandtropicalmedicine'/>
 
-### 8. School of Public Health and Tropical Medicine
+## 8. School of Public Health and Tropical Medicine
 [Return to Table of Contents](#back)
 
 8.1 The consensus of the great majority of submissions and of opinions expressed during interviews, and at the Sydney seminar, is that the School of Public Health and Tropical Medicine has outlasted its usefulness. Multiple reviews over the past decade or more have been unable to help the school to define its mission, recruit permanent leadership or have an observable impact on hea1t.h affairs in the country. Dual masters for funding, leadership and performance, ambiguous organisational relationships, rapid turnover of faculty, conflicts between goal-oriented and investigator-initiated research, incompatible mixes of students, use of the courses primarily for purposes of job advancement, uncoordinated lectures by visiting off ice holders, variable academic standards, inability to at tract many young students, an uneven and unfocussed research output, uneasy tension wit.h the medical faculty, limited administrative support from the medical faculty, discordance between School priorities and perceived national problems - are among the many manifestations said to be associated with the widespread perception of institutional inadequacy. It is a sad litany and there is no point in attempting to apportion blame. 
@@ -265,7 +261,7 @@ These initial activities may well take two years but the overall plans should be
 
 <div id='institutionalarrangementsforpublichealtheducation'/>
 
-### 9. Institutional Arrangements for Public Health Education
+## 9. Institutional Arrangements for Public Health Education
 [Return to Table of Contents](#back)
 
 9.1 The resources currently used for training in public health and tropical health at the School of Public Health and Tropical Medicine should be redeployed in order to increase the probability of improving public health education in Australia. The Commonwealth Department of Health should not be involved in any further direct funding and administration of post-graduate education and training. The \\$4.0 million annually currently expended by the School of Public Health and Tropical Medicine, together with additional funds, should over a reasonable period of time, be redeployed and invested in building a substantial and enduring educational structure that will make the "public" or "population" health perspective a dominant theme within the whole health enterprise, at least on a par wtih biomedical science and clinical practice. Indeed the objective should be to have all participants - bench laboratory investigators, clinical specialists and general practitioners, population-based investigators and practitioners, and health workesr in diverse activities at the "coal-face" in the community - share a sense of common purpose and commitment to meet the perceived needs of individuals and populations. 
@@ -346,7 +342,7 @@ should be re-named Departments of Epidemiology and: Population Health. Because o
 
 <div id='nationalhealthandmedicalresearchcouncil'/>
 
-### 10. National Health and Medical Research Council 
+## 10. National Health and Medical Research Council 
 [Return to Table of Contents](#back)
 
 10.1 This body is a major advisory group on health matters for the Commonwealth Department of Health and the nation. It was the subject of an extensive review in 1984 and with three exceptions I am in agreement with that Review Committee's findings
@@ -369,7 +365,7 @@ LO. 2 The NHEMR Council as urouosed for January 1, 1986 appears to be under-repr
 
 10.10 There will need to be a considerable amount of interaction between the members of the new Health Development Committee, its staff, and prospective principal investigators in the nurturing of new projects and proposals. A certain number of 'seed' or 'evangelical1 awards may need to be given to facilitate preparation of viable responses to proposals. In turn these may eventually lead to "re~earch~~ in contract to "development" projects which may be funded later by the Health Research Committee.
 
- 10.11 Among the tasks the Health Development Committee should set for itself are the establishment of a series of S ecial - Units attached either to universities or institutions perrods of three to five years, followed by external review. Strenuous efforts should be made to identify 'individuals or small groups capable of developing these dedicated units for investigation of problems that have a direct bearing on ?he public's health and that use population-based methods. Accordingly it may be desirable to link the term epidemiology with a number of these. Examples might include: aboriginal health, ageing, behavioural health, genetics, immunology, perinatal health, primary care, rehabilitation, social  ealth, substance abuse, toxicology or tropical health. Some of these may eventually emerge as units appropriate for Eunding by the Health Research Committee. 
+10.11 Among the tasks the Health Development Committee should set for itself are the establishment of a series of S ecial - Units attached either to universities or institutions perrods of three to five years, followed by external review. Strenuous efforts should be made to identify 'individuals or small groups capable of developing these dedicated units for investigation of problems that have a direct bearing on ?he public's health and that use population-based methods. Accordingly it may be desirable to link the term epidemiology with a number of these. Examples might include: aboriginal health, ageing, behavioural health, genetics, immunology, perinatal health, primary care, rehabilitation, social  ealth, substance abuse, toxicology or tropical health. Some of these may eventually emerge as units appropriate for Eunding by the Health Research Committee. 
 
 10.12 RECOMMENDATION: The NHEMRC should review carefully its current practice of not funding projects or other grants from universities (such as ANU) or bodies (such as CSIRO) which are funded by direct government votes. The present arrangement could stifle initiatives from many competent investigators and would certainly hamper the work of the proposed new Research Centre for Epidemiology and Population Health at the Australian National University. 
 
@@ -381,7 +377,7 @@ LO. 2 The NHEMR Council as urouosed for January 1, 1986 appears to be under-repr
 
 <div id='tropicalhealthmedicineanddiseases'/>
 
-### 11. Tropical Health, Medicine and Diseases
+## 11. Tropical Health, Medicine and Diseases
 [Return to Table of Contents](#back)
 
 11.1 There is a consensus that the objectives of Tro ical Health are virtually identical to those of 'public hea nhii t tropical, as contrasted to temperate, regions. If education in public health focuses on generic problems and methods, then examples, problems and case studies from a variety of settings throughout the world could be employed for teaching. It seems probable that the new Research Centre for Epidemiology and Population Health proposed at the ANU will develop strong associations with the Research School for Pacific Studies and should, in due course, together with the Menzies School of Health Research, be an excellent site for training in public health as applied in t.he rropics. Public health training for overseas students will continue to be provided in the various universities and colleges which have or are developing MPH or equivalent courses.
@@ -415,7 +411,7 @@ encouraged to focus its tellowships for overseas candidates from countries in th
 
 <div id='managementtraining'/>
 
-### 12. Management Training
+## 12. Management Training
 [Return to Table of Contents](#back)
 
 12.1 With about \\$15,000.0 million annually flowing through the Australian health care system, it is essential that first: rate managers - both medical and non-medical, be attracted and retained in the public service. It would appear that less rhan 5% of the management posts in the country's health departments are filled with individuals who have had formal training for their responsibilities. The several courses in health services administration, and particularly those at the School of Health Administration, University of New South Wales, are perceived, in many quarters, as failing to meet fully the needs for top level managers. Leadership and skills are required to deal with the horrendous problems of using the \\$15,000.0 million of health expenditures ef fectively and efficiently to meet: the population's health needs. The institutions providing courses in health services might be assisted in re-ordering their programs. 
@@ -428,7 +424,7 @@ encouraged to focus its tellowships for overseas candidates from countries in th
 
 <div id='collegesofadvancededucation'/>
 
-### 13. Colleges of Advanced Education
+## 13. Colleges of Advanced Education
 [Return to Table of Contents](#back)
 
 13.1 Apart from physicians, the great majority of health professionals working at the "coal-face" in providing support, instruction, care and love to those doing the suffering and paying the bills are trained in Colleges of Advanced Education. An excellent example is to be found in the Division of Health Sciences in the Western Australian Institute of Technology. Other related institutions include the Lincoln Institute, Cumberland College, the South Australian Institute of Technology, and the Mitchell College of Advanced Education. These institutions should be supported with additional funds from the Health Development Committee in order to strengthen their teaching of community development, nursing, epidemiology, i health services evaluation, health education and promotion, sociology in medicine, nutrition, and middle level management of health care institutions and services. 
@@ -437,7 +433,7 @@ encouraged to focus its tellowships for overseas candidates from countries in th
 
 <div id='careerstructures'/>
 
-### 14. Career Structures
+## 14. Career Structures
 [Return to Table of Contents](#back)
 
 14.1 The first need is to have people in academic organisational and institutional positions who are "role models". They will then attract others to do likewise. The recommendations above are designed to do this but clearly ?here will need to be career structures established with . appropriately generous remuneration in health departments, hospitals, community health centres, universities and research institutions. The review did not examine either the pay scales or the career structures in detail but there is a widespread perception that they are inadequate to attract first-rate candidates. One may observe, however, that both the public and the private sector get bhat they pay for. 
@@ -446,7 +442,7 @@ encouraged to focus its tellowships for overseas candidates from countries in th
 
 <div id='towardsonenationalaccomplishment'/>
 
-### 15. Towards One National Accomplishment
+## 15. Towards One National Accomplishment
 [Return to Table of Contents](#back)
 
 15.1 As Australia moves towards its bicentennial, there should be at least one health improvement initiative that will be seen to be clearly successful. This can be achieved if the country sets its mind to it. Seat-belt: legislation and compliance with the law are a case in point; Australia has led the world. If the following recommendation emerges from the Better Health Commission report so much to the good.
@@ -457,7 +453,7 @@ encouraged to focus its tellowships for overseas candidates from countries in th
 
 <div id='financing'/>
 
-### 16. Financing
+## 16. Financing
 [Return to Table of Contents](#back)
 
 16.1 It is estimated that about \\$15,000.0 million is expended on health services annually in Australia or about \\$1,000 per person. Of this about one third comes directly from the Commonweaith Government and more than another third flows through the State goveraments, hospitals and private insurance carriers. Additional funds come from voluntary agencies and personal outlays. The Commonwealth Department of Health spends directly \\$67.0 million annually on research, developmenr:, information and public health training or \\$4.70 per person annually. In addition, lircitzd research funds may flow through the CTEC, ASTEC, CSIRO, the hospitals and private foundations. 
