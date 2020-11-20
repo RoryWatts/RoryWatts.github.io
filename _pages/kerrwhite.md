@@ -19,23 +19,22 @@ N.B. Formatting is my own. There may be mistakes, which are either the fault of 
 ## TABLE OF CONTENTS
 
 - [Summary of Recommendations](#summaryofrecommendations)
-- [Main Content](#maincontent)
-	- [Conceptual Framework](#conceptualframework)  
-	- [Problems and Issues](#problemsandissues)
-	- [Australia's Bicentennial Health Initiative](#australiasbicentennialhealthinitiative) 
-	- [Australian Academy of Health](#australianacademyofhealth)
-	- [Australian Institute of Health](#australianinstituteofhealth)
-	- [National Centre for Health Statistics](#nationalcentreforhealthstatistics)
-	- [National Centre for Technology and Health Services Assessment](#nationalcentrefortechnologyandhealthservicesassessment)
-	- [School of Public Health and Tropical Medicine](#schoolofpublichealthandtropicalmedicine)
-	- [Institutional Arrangements for Public Health Education](#institutionalarrangementsforpublichealtheducation)
-	- [National Health and Medical Research Council](#nationalhealthandmedicalresearchcouncil) 
-	- [Tropical Health, Medicine and Diseases](#tropicalhealthmedicineanddiseases)
-	- [Management Training](#managementtraining)
-	- [Colleges of Advanced Education](#collegesofadvancededucation)
-	- [Career Structures](#careerstructures)
-	- [Towards One National Accomplishment](#towardsonenationalaccomplishment)
-	- [Financing](#financing)
+- [1. Conceptual Framework](#conceptualframework)  
+- [2. Problems and Issues](#problemsandissues)
+- [3. Australia's Bicentennial Health Initiative](#australiasbicentennialhealthinitiative) 
+- [4. Australian Academy of Health](#australianacademyofhealth)
+- [5. Australian Institute of Health](#australianinstituteofhealth)
+- [6. National Centre for Health Statistics](#nationalcentreforhealthstatistics)
+- [7. National Centre for Technology and Health Services Assessment](#nationalcentrefortechnologyandhealthservicesassessment)
+- [8. School of Public Health and Tropical Medicine](#schoolofpublichealthandtropicalmedicine)
+- [9. Institutional Arrangements for Public Health Education](#institutionalarrangementsforpublichealtheducation)
+- [10. National Health and Medical Research Council](#nationalhealthandmedicalresearchcouncil) 
+- [11. Tropical Health, Medicine and Diseases](#tropicalhealthmedicineanddiseases)
+- [12. Management Training](#managementtraining)
+- [13. Colleges of Advanced Education](#collegesofadvancededucation)
+- [14. Career Structures](#careerstructures)
+- [15. Towards One National Accomplishment](#towardsonenationalaccomplishment)
+- [16. Financing](#financing)
 - [References](#references)
 
 <div id='summaryofrecommendations'/>
@@ -204,7 +203,7 @@ __RECOMMENDATION:__ Australia should set as its bicentennial goal, in connection
 
 5.1 This innovative approach towards information-based policy analysis and decision-making is highly commendable. It has been given, however, an unusually broad mandate, inadequately defined responsibilities and ambiguous relationships to the Commonwealth and State Governments and to universities, varying time frames for reporting, and a current agenda inherited from disparate predecessor bodies. It is difficult to see how the talents of the staff can be effectively employed unless they are more clearly defined and the several essential elements of the organization given specific mandates and new legislation. The substantial conceptual advances represented by the creation of the AIH should now be clarified and strengthened and to that end, the following three recommendations are made.
 
-__RECOMMENDATION:__ The AIH should be strengthened by giving it a more clearly defined role as the substantial policy analysis and intelligence group working directly for the Minister and Secretary and reporting to the latter or the Deputy Secretary. It should have a Director and staff of perhaps 6 to 8 professionals with appropriate support personnel. The Minister and the Secretary, together with the Director, should set the AIH's agenda. Although there could be an external advisory council this does not appear to be essential. The name of the unit might be changed to the Australian Institute for Health POlicy Analysis (AIHPA) or the Health Policy Analysis Unit at some later date but this is not material.
+__RECOMMENDATION:__ The AIH should be strengthened by giving it a more clearly defined role as the substantial policy analysis and "intelligence" group working directly for the Minister and Secretary and reporting to the latter or the Deputy Secretary. It should have a Director and staff of perhaps 6 to 8 professionals with appropriate support personnel. The Minister and the Secretary, together with the Director, should set the AIH's agenda. Although there could be an external advisory council this does not appear to be essential. The name of the unit might be changed to the Australian Institute for Health Policy Analysis (AIHPA) or the Health Policy Analysis Unit at some later date but this is not material.
 
 <div id='nationalcentreforhealthstatistics'/>
 
