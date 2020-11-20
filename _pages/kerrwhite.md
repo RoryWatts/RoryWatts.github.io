@@ -223,28 +223,102 @@ __RECOMMENDATION:__ The AIH should be strengthened by giving it a more clearly d
 
  6.2 The NCHS should develop and promulgate conventions, :; standards, terms, definitions, minimum data sets, codes and classifications for the Nation's health statistics. Contractural arrangements with the States, the Australian Bureau of Statistics, and survey organisations should be entered into for one-time acquisition of parsimonious data  ets suitable for aggregation and analysis at all agreed levels of geo-political, managerial and clinical concerns and decision-working. It is essential that costs, charges and expenditure data be linked with clinical data so that measures of needs, resources (facilities, equipment and personnel), use and outcomes and benefits can be related and analyzed.
 
- 
+ 6.3 The NCHS should publish periodic reports on substantive and methodological subjects which are widely I disseminated, and arrange for data tapes to be made available : for research with due regard to confidentiality of patients1, i institutions' , and physicians' names. 
+
+ 6.4 The Director should be selected by international competition and a staff of 15 to 20 professionals and appropriate support personnel will be needed. The staff should i include statiticians, health economists, clinical : epidemiologists, demographers and social survey experts. The Advisory Committee should have about 12 to 15 members with a ; majority of experienced population-based scientists on it as ' we11 as bio-medical scientists, clinicians and  epresentatives : of consumers' and community organisations.
+
+6.5 The first tasks of the NCHS should include:
+
+6.5.1 Development of a conceptual framework in which health ! statistics are to be generated and disseminated with a l view to informing choices and decisions at all j governmental, institutional and clinical levels.
+
+6.5.2 Construction of an inventory of all health and medical data sets currently available or proposed throughout validity, coverage and utility. I the country, including estimates 
+
+6.5.3 Development of a ten-year plan for implementation, j characterised by having both important and realistic / national objectives.
+
+These activities may we11 take up to two years but the overall j plan should be ready for promulgation in connection with the i Australian Bicentennial. The NCHS Staff should not be asked to j under-take short-term statistical analyses during this : preparatory period. The AIH should undertak& such analys;s. 
+
+6.6 Proposals for external, contractural or commissioned research and analytical studies, as distinct from data acquisition activities, should be referred to the Health: Development Committee (see below) for refereeing and funding.
 
 <div id='nationalcentrefortechnologyandhealthservicesassessment'/>
 
 ### 7. National Centre for Technology and Health Services Assessment
 [Return to Table of Contents](#back)
 
+7.1 RECOMMENDATION: A National Centre for Technology and ,Health Services Assessment (NcTGHSA) with a National Advisory &Committee on Technology and Health Services Assessment , ( ACT$HSA) should be established by legislation. The Director of the NCT$HSA, with advice from the NACTEHSA, should report directly to the Australian Health Services Council annually with ,---a document entitled "Problems and Progress in Technology and Health Service Assessment". For administrative purposes the Director oE the NCTEHSA should report to the Secretary or Deputy 1 Secretary of the Commonwealth Department of Health but the i NCTGHSA should serve and be perceived to serve the entire nation.
 
+7.2 The NCTEHSA should be, and be perceived to be, a I I non-political and scientific body. The Director should be I selected by internat-ional competition and a staff of 15 to 20 professionals and appropriate support personnel will be needed. The staff should include clinical epidemiologists, economists, i health services investigators, operational research scientists, j sociologists and statisticians. The Advisory Committee of about F" 12-15 should have a majority of experienced scientists with skills in critical appraisal of medical and health related evidence, including epidemiologists, economists, biomedical engineers, biomedical scientists, clinicians, sociologists and statisticians as we11 as ethicists and representatives of consumers' and community organisations. 
+
+7.3 The first tasks should include:
+
+7.3.1 Development of the conceptual framework under which the Centre's analyses will be conducted, including attention to such matters as the nature and quality of the evidence to be assessed, the methods to be employed, the underlying values and assumptions bearing I on determinations, conflicts of interests and publication and dissemination policies
+
+7.3.2 Construction of an international inventory of concepts and methods in current use, and of problems that have been and are being addressed in the entire field. 
+
+7.3.3 Development of a five-year plan with priorities for implementation based on a combination of measures of morbidity, efficacy, cost-effectiveness, capital and operating costs and volume of use. In this connection, attention should be given to the development and adaptation of concepts and methods for the measurement of health status, interventions, outcomes and benefits of all types. Efficacy and safety trials of drugs should be excluded but cost-effectiveness studies oE these and other modalities of care and cure should receive a high priority. Both low-cost, high-volume procedures and prescript ions as well as capital-intensive proposals should be examined critically and findings should be couched in population-based perspectives that reflect national, state and institutional costs and expenditures in relation to measures of need and demand. 
+
+These initial activities may well take two years but the overall plans should be ready and several significant assessments should have been completed in time for the Australian Bicentennial.
+
+7.4 Proposals for external, contractural or commissioned research and analytical studies should be channelled to the Health Development Committee (see below) for refereeing and funding .
 
 <div id='schoolofpublichealthandtropicalmedicine'/>
 
 ### 8. School of Public Health and Tropical Medicine
 [Return to Table of Contents](#back)
 
+8.1 The consensus of the great majority of submissions and of opinions expressed during interviews, and at the Sydney seminar, is that the School of Public Health and Tropical Medicine has outlasted its usefulness. Multiple reviews over the past decade or more have been unable to help the school to define its mission, recruit permanent leadership or have an observable impact on hea1t.h affairs in the country. Dual masters for funding, leadership and performance, ambiguous organisational relationships, rapid turnover of faculty, conflicts between goal-oriented and investigator-initiated research, incompatible mixes of students, use of the courses primarily for purposes of job advancement, uncoordinated lectures by visiting off ice holders, variable academic standards, inability to at tract many young students, an uneven and unfocussed research output, uneasy tension wit.h the medical faculty, limited administrative support from the medical faculty, discordance between School priorities and perceived national problems - are among the many manifestations said to be associated with the widespread perception of institutional inadequacy. It is a sad litany and there is no point in attempting to apportion blame. 
 
+8.2 The recent. Ross Re ort does not appear to have dealt with the root causes 4 o t. e Sc 001's problems and I cannot. see that a reshuffling of the organisational arrangements would have a perceptible impact. 
+
+8.3. There are first-rate people in the School and their dedicatino during a protracted period of uncertainty is applauded. The talents of these highly skilled and committed individuals constitute a valuable national resource and opportunities should be provided for them as soon as possible in new venues where a fresh start is to be made. THere are occasions in the livers of institutions and organisations when revitalisation and renewal are only possible under new auspices.
+
+8.4 __RECOMMENDATION:__ All the funds and resources currently devoted at the School of Public Health and Tropical Medicine should be redeployed for new institutional and organisational initiative that further the goals of public and tropical health throughout Australia.
 
 <div id='institutionalarrangementsforpublichealtheducation'/>
 
 ### 9. Institutional Arrangements for Public Health Education
 [Return to Table of Contents](#back)
 
+9.1 The resources currently used for training in public health and tropical health at the School of Public Health and Tropical Medicine should be redeployed in order to increase the probability of improving public health education in Australia. The Commonwealth Department of Health should not be involved in any further direct funding and administration of post-graduate education and training. The \\$4.0 million annually currently expended by the School of Public Health and Tropical Medicine, together with additional funds, should over a reasonable period of time, be redeployed and invested in building a substantial and enduring educational structure that will make the "public" or "population" health perspective a dominant theme within the whole health enterprise, at least on a par wtih biomedical science and clinical practice. Indeed the objective should be to have all participants - bench laboratory investigators, clinical specialists and general practitioners, population-based investigators and practitioners, and health workesr in diverse activities at the "coal-face" in the community - share a sense of common purpose and commitment to meet the perceived needs of individuals and populations. 
 
+9.2 __RECOMMENDATION:__ The Australian National University
+should be asked to establish a new National Research Centre for . !Epidemiology and Population Health with the objective of a "cent re of excellence", embracing the population-based perspective in juxtaposition to the biomedical and clinical perspectives. This university already en joys an ,international reputat ion and has standards of excellence of the highest order. It is essentially a graduate university and the proposed centre should focus on "teaching the teachers" and ?"training the investigators" to staff its sister universities :both in Australia and abroad. These future academicians will ,require intensive, closely supervised experience in a research 'atmosphere which focuses on core disciplines, but their achievement of independent competence will come through completing a piece of credible research at the M.Sc. or, preferably, the Ph.D level
+
+9.3 This Research Centre should not attempt to provide course work and training by lectures leading to the MPH which is traditionally a vocational qualification and not an academic or research degree. The real need is to prepare first-rate scientists of academic stature who can teach the relevant disciplines and conduct independent research in the other universities of Australia.
+
+9.4 Epidemiology is emphasised in this new Research Centre and in other university departments because it is almost universally regarded as the core discipline in public health, providing the scientific underpinning for the entire field. Australia will need from 75 to 200 epidemiologists by the year 2000 according to submissions prepared for this review. The task of the Centre is to develop top-flight epidemiologists with substantial skills an  broad interests, as well as postgraduates in the other disciplines germane to public health. The faculty should consist of first rate scientists in: 
+
+9.4.1 Epidemiology, in its broadest sense, as applied to communicable and non-communicable diseases, health services and behavioural problems. Initially there should be at least one professor and two lecturers in this field.
+
+9.4.2 Statistics, including biometry, medical statistics and especially health and vital statistics. This di;ciplink should have strong links to both mathematical statistics and demography. 
+
+9.4.3 Sociology, including survey methods, the sociology of medicine, sociology medicine, and the organisition of health services. Medical anthropology could also be included. 
+
+9.4.4 Health Economics, including skills in both micro- and macro-economics and especially skills in cost-effectiveness, cost -benef it - studies and flow-of-funds studies
+
+9.4.5 Nutrition, especially with respect to food and consumables and their links to agriculture food production, processing, marketing and advertising. 
+
+9.4.6 Toxicology, especially of environmental, occupational and food pollutants and additives. 
+
+9.5 This new National Research Centre for Epidemiology and Population Health should be established with the initial appointment of a Director who is an experienced epidemiologist, selected on the basis of a widely advertised international competition. The individual should preferably have wet laboratory and/or clinical competence since it will be important ,to interact with both groups. Above all, however, a person is , . .,,;needed with vision, drive, a sense of quality and purpose and a !,-,:track record of managerial skills to achieve the Centre's :I:objectives. The Director should set the tone and agenda for the :.,'Centre and, with appropriate university peer review, select an anitial staff of professors, senior lecturers and lecturers. L" i<'All these appointments, including the Director and senior staff :- . , should be for initial f ive-year terms followed by external . ,... 2-review and further five-year renewals, and possibly tenured appointments.
+
+9.6 To establish the Research Centre, the ANU will need guaranteed funding for an initial six-year period or two trienniums. The necessary funds could be transferred directly from the Commonwealth Department of Health to the ANU vote. In the first year about \\$1.0 million will be needed for staff and a second \\$1.0 million for a new building. The scope of the latter will depend on whether wet laboratories are to be included. Annual budgets of at least \\$2.0 million annually will be needed for the following fiver years at which time ANU might be expected to incorporate the Research Centre's budget in its overall vote. ANU could also provide funds for further expansions throuhg its regular governmental vote and research funds should be sought from the NHM&MRC and private sources. There is no logical reason why project grants and dedicated units funded by the Health Research Fund and/or the Health Development Fund should not be used to expand the work of the Research Centre.
+
+9.7 Although postgraduate education and research should be the primary concerns of thie Centre, it should also be prepared to give advice and undertake appropriate contractual research initiated by the Commonwealth, State and local Governments, including the restructured Australian Institute of Health, the proposed Australian Academy of Health, the proposed National Centre for Health Statistics, the proposed National Centre for Technology and Health Services Assessment, the Health Development Committee and voluntary bodies.
+
+9.8 The Research Centre should not be unduly encumbered by a separate governing body or an overall advisory committee, -' although the Director may wish to have such a group. If the .right person is selected for leadership he or she will set the b1 agenda and the periodic external reviews will be able to comment , .on the extent and quality of achievements. 
+
+9.9 The reason for recommending a "Centre", rather than a lfSchool" is to allow the enterprise to evolve gradually as a .strong, dedicated, highly regarded and financially secure entity and not to saddle it with either a history associated with other linstitutions or an excessive vocational teaching load. The Research Centre formula also permits cross fertilisation of ideas through interaction with a variety of colleagues in the University concerned with research and graduate education  relevant to this new field of endeavour. By such means the Research Centre may help to focus more of ANU's resources on the perspectives and problems that are relevant, in both the long-term and the short-term, to the health of the people of Australia and its geographic neighbours. Although most. of the Research Centre's studies will be investigator-initiated and curiosity-based, they should take place in the context of a portfolio of clearly defined problem-oriented goals and targetted objectives that are responsive to important perceived needs in Australia, the surrounding region and internationally. 
+
+9.10 One argument advanced for not placing this new "centre of excellence" in Canberra is that the city is "too small" for p o p u l a t i o n - b a s e d research. For years small towns 1 ike Chapel Hill, New Haven and Iowa City in the United States have had universities conducting first-rate population based research 
+In any event, "common diseases" are ltcommon" and there are plenty of these in Canberra that could benefit from research. Similar to other elements of ANU it is possible that the Research Centre may well have field stations 1ocat.ed in diverse parts of the country and overseas and it may develop collaborative associations with other research institutions and universities. It should be especially attractive for overseas , postgraduate students funded by ADAB
+
+9.11 An additional advantage to siting the new "centre of excellence" at the ANU is the ready availability of excellent resources in the Research School of Pacific St.udies, the Research School of Social Sciences, the John Curtin School of Medical Research and a number of dedicated Centres in each of the Schools directly concerned with hea1t.h problems. Finally, the presence of this "centre of excellence" in close proximity to the Commonwealth Department of Health should promote the exchange of ideas and, under appropriate circumstances personnel, thereby encouraging the Research Centre to focus on the nat iont s overall health problems and strengthening the capacities of the Department of Health
+
+9.12 Arguments against establishing the new Research Centre in Sydney stem from the unfortunate associations that surround the present School of Public Health and Tropical Medicine and even its building that plague its recent. history. The concept of a Research Centre appears to fit more comfortably into the academic framework of ANU than it does at the University of Sydney and it would clearly be university-based rather than continue as a directly funded government research institute located in a university. The proposed transfer of funds directly from the Commonwealth Department. of Health vote to the ANU vote is seen as a much simpler and cleaner arrangement than transfers through the CTEC. Finally, the University of Sydney has embarked recently on a new initiative at Westmead Hospital and it seems preferable to strengthen that Department rather than encourage a competing activity in the same university.
+
+One of the responsibilities of the Research Centre for epiemiology and Population Health would be to organise, with guestt faculty from other universities and institutions, annual six- to eight-week intensive sessions on epidemiology and statistical principles and methods directed at improving skills in design, measurement and evaluation for a variety of constituencies. Several levels of education might be provided including core courses for those taking MPH degrees at universities in the several States, for those clinicians interested in improving their research skills and for other groups concerned with health services evaluation studies of different types. 
+
+This new Research Centre should not attempt to train ,managers or administrators, at least initially, since  irst-rate national graduate schools of management exist in other universities. Short courses in evaluation for managers, however, might be considered as time and resources permit and the Research Centre might assume responsibility for the Health Services Module proposed for the MBA program at the Australian ,Graduate School of Management at the University of N.S.W. (see below)
 
 <div id='nationalhealthandmedicalresearchcouncil'/>
 
