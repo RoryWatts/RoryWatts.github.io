@@ -209,21 +209,21 @@ __RECOMMENDATION:__ The AIH should be strengthened by giving it a more clearly d
 
 6.2 The NCHS should develop and promulgate conventions, standards, terms, definitions, minimum data sets, codes and classifications for the Nation's health statistics. Contractual arrangements with the States, the Australian Bureau of Statistics, and survey organisations should be entered into for one-time acquisition of parsimonious data  sets suitable for aggregation and analysis at all agreed levels of geo-political, managerial and clinical concerns and decision-working. It is essential that costs, charges and expenditure data be linked with clinical data so that measures of needs, resources (facilities, equipment and personnel), use and outcomes and benefits can be related and analyzed.
 
-6.3 The NCHS should publish periodic reports on substantive and methodological subjects which are widely I disseminated, and arrange for data tapes to be made available : for research with due regard to confidentiality of patients1, i institutions' , and physicians' names. 
+6.3 The NCHS should publish periodic reports on substantive and methodological subjects which are widely disseminated, and arrange for data tapes to be made available for research with due regard to confidentiality of patients, institutions, and physicians' names. 
 
-6.4 The Director should be selected by international competition and a staff of 15 to 20 professionals and appropriate support personnel will be needed. The staff should i include statiticians, health economists, clinical : epidemiologists, demographers and social survey experts. The Advisory Committee should have about 12 to 15 members with a ; majority of experienced population-based scientists on it as ' we11 as bio-medical scientists, clinicians and  epresentatives : of consumers' and community organisations.
+6.4 The Director should be selected by international competition and a staff of 15 to 20 professionals and appropriate support personnel will be needed. The staff should include statisticians, health economists, clinical epidemiologists, demographers and social survey experts. The Advisory Committee should have about 12 to 15 members with a majority of experienced population-based scientists on it as well as bio-medical scientists, clinicians and representatives of consumers' and community organisations.
 
 6.5 The first tasks of the NCHS should include:
 
-6.5.1 Development of a conceptual framework in which health ! statistics are to be generated and disseminated with a l view to informing choices and decisions at all j governmental, institutional and clinical levels.
+6.5.1 Development of a conceptual framework in which health statistics are to be generated and disseminated with a view to informing choices and decisions at all governmental, institutional and clinical levels.
 
-6.5.2 Construction of an inventory of all health and medical data sets currently available or proposed throughout validity, coverage and utility. I the country, including estimates 
+6.5.2 Construction of an inventory of all health and medical data sets currently available or proposed throughout the country, including estimates of their reliability, validity, coverage and utility. 
 
-6.5.3 Development of a ten-year plan for implementation, j characterised by having both important and realistic / national objectives.
+6.5.3 Development of a ten-year plan for implementation, characterised by having both important and realistic national objectives.
 
-These activities may we11 take up to two years but the overall j plan should be ready for promulgation in connection with the i Australian Bicentennial. The NCHS Staff should not be asked to j under-take short-term statistical analyses during this : preparatory period. The AIH should undertak& such analys;s. 
+These activities may well take up to two years but the overall plan should be ready for promulgation in connection with the Australian Bicentennial. The NCHS Staff should not be asked to undertake short-term statistical analyses during this preparatory period. The AIH should undertake such analysis. 
 
-6.6 Proposals for external, contractural or commissioned research and analytical studies, as distinct from data acquisition activities, should be referred to the Health: Development Committee (see below) for refereeing and funding.
+6.6 Proposals for external, contractural or commissioned research and analytical studies, as distinct from data acquisition activities, should be referred to the Health Development Committee (see below) for refereeing and funding.
 
 <div id='nationalcentrefortechnologyandhealthservicesassessment'/>
 
