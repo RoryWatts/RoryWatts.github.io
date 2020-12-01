@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Rory Watts"
-  avatar           : "profile.jpg"
+  avatar           : #"profile.jpg"
   bio              : "Public Health, Health Economics. MPH, PhDing. Tinkerer, thinkerer."
   location         : "Perth, Western Australia"
   employer         :
