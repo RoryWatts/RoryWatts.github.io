@@ -3,11 +3,10 @@ main:
 
   - title: "About me"
     url: /about/
-  - title: "The Kerr White Report"
-    url: /kerrwhite/
-
-#  - title: "Blog Posts"
-#    url: /year-archive/
+#  - title: "The Kerr White Report"
+#    url: /kerrwhite/
+  - title: "Blog"
+    url: /year-archive/
     
 
     
