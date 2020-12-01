@@ -1,7 +1,7 @@
 ---
-title: 'Blog Post number 4'
-date: 2020-08-14
-permalink: /posts/2020/08/blog-post-4/
+title: 'Blog Post number 2'
+date: 2020-08-10
+permalink: /posts/2020/08/blog-post-2/
 tags:
   - cool posts
   - category1
