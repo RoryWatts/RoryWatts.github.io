@@ -1,5 +1,5 @@
 ---
-title: 'You think speaking in tongues is silly, yet you listen to music'
+title: 'You think speaking in tongues is silly, but you listen to music'
 date: 2020-12-03
 permalink: /posts/2020/12/blog-post/
 tags:
