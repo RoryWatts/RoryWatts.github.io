@@ -48,3 +48,10 @@ class Chunk:
     def format_words(self, text):
         text = re.sub(r'\[*\]*', '', text)
         return text
+
+class MarkdownExporter:
+
+    def __init__(self, formatted_cv):
+        self.cv = formatted_cv
+    
+    
