@@ -21,7 +21,7 @@ class RoamZip:
                         return json.load(cv_entry)[0]
     
     def format_cv(self, cv_object):
-        return Chunk(cv_object)
+        return Chunk(cv_object, chunk_parent=None)
     
     def export_raw_cv(self, method='json'):
         time_now = datetime.datetime.now().strftime('%Y-%m-%d-%H%M%S')
@@ -31,10 +31,11 @@ class RoamZip:
 
 class Chunk:
     
-    def __init__(self, json_chunk):
+    def __init__(self, json_chunk, chunk_parent):
+        self.parent = chunk_parent
+        self.prefix = self.get_prefix()
         try:
             self.string = self.format_words(json_chunk['title'])
-            self.prefix = "#"
         except KeyError:
             pass
         try:
@@ -42,38 +43,40 @@ class Chunk:
         except KeyError:
             pass
         try:
-            self.children = [Chunk(x) for x in json_chunk['children']]
+            self.children = [Chunk(x, self) for x in json_chunk['children']]
         except KeyError:
             pass
+    
+    def get_prefix(self):
+        if self.parent == None:
+            return "#"
+        if self.parent.prefix == "#":
+            return "##"
+        if self.parent.prefix == "##":
+            return " -"
+        else:
+            return "    " + self.parent.prefix
 
     def format_words(self, text):
         text = re.sub(r'\[*\]*', '', text)
-        text = "{} \n".format(text)
+        text = "{} {} \n".format(self.prefix, text)
         return text
 
 class MarkdownExporter:
 
     def __init__(self, formatted_cv):
         self.cv = formatted_cv
-        self.markdown_document = self.format_for_markdown(self.cv)
+        self.markdown_document = str()
+        self.flatten_chunks(self.cv)
 
-    def format_for_markdown(self, cv):
-        markdown_document = ""
-        counter = 0
-        chunk = self.cv
-        #Unfinished
-        while True:
+    def flatten_chunks(self, chunk):
+        self.markdown_document += chunk.string
+        for child in chunk.children:
             try:
-                if counter == 0:
-                    markdown_document + "# {}\n".format(chunk.string)
-                if counter == 1:
-                    markdown_document + "## {}\n".format(chunk.string)
-                else:
-                    markdown_document + "{}- {}\n".format(' ' * 4 * counter, chunk.string)
-                chunk = self.cv
-            except:
-                return markdown_document
-        return markdown_document
+                self.flatten_chunks(child)
+            except AttributeError:
+                pass
+
     def export_as_markdown(self):
         with open('./_pages/curriculum_vitae.md', 'w') as file:
             file.write(self.markdown_document)
