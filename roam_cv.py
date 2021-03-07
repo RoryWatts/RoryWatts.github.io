@@ -34,6 +34,7 @@ class Chunk:
     def __init__(self, json_chunk):
         try:
             self.string = self.format_words(json_chunk['title'])
+            self.prefix = "#"
         except KeyError:
             pass
         try:
@@ -47,11 +48,32 @@ class Chunk:
 
     def format_words(self, text):
         text = re.sub(r'\[*\]*', '', text)
+        text = "{} \n".format(text)
         return text
 
 class MarkdownExporter:
 
     def __init__(self, formatted_cv):
         self.cv = formatted_cv
-    
-    
+        self.markdown_document = self.format_for_markdown(self.cv)
+
+    def format_for_markdown(self, cv):
+        markdown_document = ""
+        counter = 0
+        chunk = self.cv
+        #Unfinished
+        while True:
+            try:
+                if counter == 0:
+                    markdown_document + "# {}\n".format(chunk.string)
+                if counter == 1:
+                    markdown_document + "## {}\n".format(chunk.string)
+                else:
+                    markdown_document + "{}- {}\n".format(' ' * 4 * counter, chunk.string)
+                chunk = self.cv
+            except:
+                return markdown_document
+        return markdown_document
+    def export_as_markdown(self):
+        with open('./_pages/curriculum_vitae.md', 'w') as file:
+            file.write(self.markdown_document)
