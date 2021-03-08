@@ -51,14 +51,15 @@ class Chunk:
         if self.parent == None:
             return "#"
         if self.parent.prefix == "#":
-            return "##"
-        if self.parent.prefix == "##":
-            return " -"
+            return "\n##"
+        if self.parent.prefix == "\n##":
+            return "-"
         else:
             return "    " + self.parent.prefix
 
     def format_words(self, text):
-        text = re.sub(r'\[*\]*', '', text)
+        text = re.sub(r'\[{2}', '', text)
+        text = re.sub(r'\]{2}', '', text)
         text = "{} {} \n".format(self.prefix, text)
         return text
 
@@ -66,7 +67,7 @@ class MarkdownExporter:
 
     def __init__(self, formatted_cv):
         self.cv = formatted_cv
-        self.markdown_document = str()
+        self.markdown_document = ''
         self.flatten_chunks(self.cv)
 
     def flatten_chunks(self, chunk):
@@ -78,5 +79,5 @@ class MarkdownExporter:
                 pass
 
     def export_as_markdown(self):
-        with open('./_pages/curriculum_vitae.md', 'w') as file:
-            file.write(self.markdown_document)
+        with open('./_pages/curriculum_vitae.md', 'wb') as file:
+            file.write(self.markdown_document.encode('utf-8'))
