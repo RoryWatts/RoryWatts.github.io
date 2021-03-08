@@ -36,14 +36,15 @@ class Chunk:
         self.prefix = self.get_prefix()
         self.ignorestring = "private"
         try:
-            self.string = self.format_words(json_chunk['title'])
+            self.raw_string = json_chunk['title']
         except KeyError:
             pass
         try:
-            self.string = self.format_words(json_chunk['string'])
+            self.raw_string = json_chunk['string']
         except KeyError:
             pass
-        if self.string != self.ignorestring:
+        if self.raw_string != self.ignorestring:
+            self.string = self.format_words(self.raw_string)
             try:
                 self.children = [Chunk(x, self) for x in json_chunk['children']]
             except KeyError:
