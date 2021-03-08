@@ -34,6 +34,7 @@ class Chunk:
     def __init__(self, json_chunk, chunk_parent):
         self.parent = chunk_parent
         self.prefix = self.get_prefix()
+        self.ignorestring = "private"
         try:
             self.string = self.format_words(json_chunk['title'])
         except KeyError:
@@ -42,10 +43,11 @@ class Chunk:
             self.string = self.format_words(json_chunk['string'])
         except KeyError:
             pass
-        try:
-            self.children = [Chunk(x, self) for x in json_chunk['children']]
-        except KeyError:
-            pass
+        if self.string != self.ignorestring:
+            try:
+                self.children = [Chunk(x, self) for x in json_chunk['children']]
+            except KeyError:
+                pass
     
     def get_prefix(self):
         if self.parent == None:

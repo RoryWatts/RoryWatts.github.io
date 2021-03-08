@@ -25,11 +25,12 @@
 - World Health Organization 
     - HQ - NMH - NVI MND 
         - consultant (offsite) 
-            - Purchase Order: 202592612 
+            - Work: Cancer - COVID - Excel, Cancer - COVID - django 
             - From: September 28th, 2020 
             - To: December 31st, 2020 
-            - Payment: AUD33,049.28 
-            - Work: Cancer - COVID - Excel, Cancer - COVID - django 
+            - private 
+                - Payment: AUD33,049.28 
+                - Purchase Order: 202592612 
         - consultant (offsite) 
             - Purchase Order: 202556540 
             - From: June 20th, 2020 
